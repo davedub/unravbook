@@ -1,0 +1,4148 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{2}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Adelman-2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4a7fcb8585956f7775b999238a29e6a0}{%
+           family={Adelman},
+           familyi={A\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{2}{%
+        {London}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{fullhash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{fullhashraw}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{bibnamehash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{authorbibnamehash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{authornamehash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{authorfullhash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{authorfullhashraw}{4a7fcb8585956f7775b999238a29e6a0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Rise of Israel: A history of a revolutionary state}
+      \field{year}{2008}
+    \endentry
+    \entry{Silva-1999}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3c515ea5d5585349629a6903529fbb8}{%
+           family={Bonilla-Silva},
+           familyi={B\bibinithyphendelim S\bibinitperiod},
+           given={Eduardo},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a72f1e7ebeea3e13ba6206dab17ec3a0}{%
+           family={Batur-Vanderlippe},
+           familyi={B\bibinithyphendelim V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           suffix={P.\bibnamedelimi \&\bibnamedelima Feagin},
+           suffixi={P\bibinitperiod\bibinitdelim \\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stamford, CT}%
+      }
+      \list{publisher}{1}{%
+        {Jai Press}%
+      }
+      \strng{namehash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{fullhash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{fullhashraw}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{bibnamehash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{authorbibnamehash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{authornamehash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{authorfullhash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{authorfullhashraw}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{editorbibnamehash}{a72f1e7ebeea3e13ba6206dab17ec3a0}
+      \strng{editornamehash}{a72f1e7ebeea3e13ba6206dab17ec3a0}
+      \strng{editorfullhash}{a72f1e7ebeea3e13ba6206dab17ec3a0}
+      \strng{editorfullhashraw}{a72f1e7ebeea3e13ba6206dab17ec3a0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The global color line: racial and ethnic inequality and struggle from a global perspective}
+      \field{series}{Research in politics and society}
+      \field{title}{{`This is a White Country': The Racial Ideology of the Western Nations of the World-System}}
+      \field{year}{1999}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Qutami-2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=392a0d6dbdf5d6b951313871cedf65a6}{%
+           family={Qutami},
+           familyi={Q\bibinitperiod},
+           given={Loubna},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=efaa8e31e204cae0002826560ae10993}{%
+           family={Zahzah},
+           familyi={Z\bibinitperiod},
+           given={Omar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pluto Journals}%
+      }
+      \strng{namehash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{fullhash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{fullhashraw}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{bibnamehash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{authorbibnamehash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{authornamehash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{authorfullhash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{authorfullhashraw}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{02713519, 20436920}
+      \field{journaltitle}{Arab Studies Quarterly}
+      \field{number}{1--2}
+      \field{title}{The War of Words: Language as an Instrument of Palestinian National Struggle}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{42}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{66\bibrangedash 90}
+      \range{pages}{25}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/10.13169/arabstudquar.42.1-2.0066
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/10.13169/arabstudquar.42.1-2.0066
+      \endverb
+    \endentry
+    \entry{Said-1978a}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a41ca7a97ad4c8dd51a0d6e647ae828e}{%
+           family={Said},
+           familyi={S\bibinitperiod},
+           given={Edward\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Pantheon Books}%
+      }
+      \strng{namehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{fullhash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{fullhashraw}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{bibnamehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{authorbibnamehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{authornamehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{authorfullhash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{authorfullhashraw}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780394428147}
+      \field{title}{Orientalism}
+      \field{year}{1978}
+    \endentry
+    \entry{Sayegh-1965}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25eb0c5f8392edae958495841fb09870}{%
+           family={Sayegh},
+           familyi={S\bibinitperiod},
+           given={Fayez},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The November 8th Publishing House}%
+      }
+      \strng{namehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{fullhash}{25eb0c5f8392edae958495841fb09870}
+      \strng{fullhashraw}{25eb0c5f8392edae958495841fb09870}
+      \strng{bibnamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorbibnamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authornamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorfullhash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorfullhashraw}{25eb0c5f8392edae958495841fb09870}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{2023 reprint}
+      \field{series}{Palestine Liberation Series}
+      \field{title}{Zionist Colonialism in Palestine}
+      \field{year}{1965}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{4}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Abdo-2018}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c75ed9ab7d155d9909e1471d5e69f30a}{%
+           family={Abdo},
+           familyi={A\bibinitperiod},
+           given={Nahla},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c75ed9ab7d155d9909e1471d5e69f30a}{%
+           family={Abdo},
+           familyi={A\bibinitperiod},
+           given={Nahla},
+           giveni={N\bibinitperiod}}}%
+        {{hash=9f50c9962c43d0a23d09e6ebd12f4aef}{%
+           family={Masalha},
+           familyi={M\bibinitperiod},
+           given={Nur},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Zed Books}%
+      }
+      \strng{namehash}{c75ed9ab7d155d9909e1471d5e69f30a}
+      \strng{fullhash}{c75ed9ab7d155d9909e1471d5e69f30a}
+      \strng{fullhashraw}{c75ed9ab7d155d9909e1471d5e69f30a}
+      \strng{bibnamehash}{c75ed9ab7d155d9909e1471d5e69f30a}
+      \strng{authorbibnamehash}{c75ed9ab7d155d9909e1471d5e69f30a}
+      \strng{authornamehash}{c75ed9ab7d155d9909e1471d5e69f30a}
+      \strng{authorfullhash}{c75ed9ab7d155d9909e1471d5e69f30a}
+      \strng{authorfullhashraw}{c75ed9ab7d155d9909e1471d5e69f30a}
+      \strng{editorbibnamehash}{09188585155d3afa9d949c8ee55190e2}
+      \strng{editornamehash}{09188585155d3afa9d949c8ee55190e2}
+      \strng{editorfullhash}{09188585155d3afa9d949c8ee55190e2}
+      \strng{editorfullhashraw}{09188585155d3afa9d949c8ee55190e2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{An Oral History of the Palestinian Nakba}
+      \field{title}{Feminism, indigenousness and settler colonialism: oral history, memory and the Nakba}
+      \field{year}{2018}
+      \field{pages}{40\bibrangedash 64}
+      \range{pages}{25}
+    \endentry
+    \entry{Abu-Laban-2019}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4aa4051d141f689026236cb77be9514f}{%
+           family={Abu-Laban},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Yasmeen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e9cc585d9b9e9ce78e0c7c101e23332}{%
+           family={Bakan},
+           familyi={B\bibinitperiod},
+           given={Abigail\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {London New York Oxford New Delhi Sydney}%
+      }
+      \list{publisher}{1}{%
+        {I.B.Tauris}%
+      }
+      \strng{namehash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{fullhash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{fullhashraw}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{bibnamehash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{authorbibnamehash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{authornamehash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{authorfullhash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{authorfullhashraw}{b152f2db25b26d67d8c44ebf091874a3}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781780765327}
+      \field{title}{Israel, Palestine and the politics of race: exploring identity and power in a global context}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{Abu-Laban-2020}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4aa4051d141f689026236cb77be9514f}{%
+           family={Abu-Laban},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Yasmeen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e9cc585d9b9e9ce78e0c7c101e23332}{%
+           family={Bakan},
+           familyi={B\bibinitperiod},
+           given={Abigail\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London New York}%
+      }
+      \list{publisher}{1}{%
+        {I.B.Tauris}%
+      }
+      \strng{namehash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{fullhash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{fullhashraw}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{bibnamehash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{authorbibnamehash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{authornamehash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{authorfullhash}{b152f2db25b26d67d8c44ebf091874a3}
+      \strng{authorfullhashraw}{b152f2db25b26d67d8c44ebf091874a3}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781780765334}
+      \field{title}{Israel, Palestine and the politics of race: exploring identity and power in a global context}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{Abu-Rabi-2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0cad208a88251492c7ba82cdc36a0b9e}{%
+           family={Abu-Rabi},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Ibrahim\bibnamedelima M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, Sterling VA}%
+      }
+      \list{publisher}{1}{%
+        {Pluto Press}%
+      }
+      \strng{namehash}{0cad208a88251492c7ba82cdc36a0b9e}
+      \strng{fullhash}{0cad208a88251492c7ba82cdc36a0b9e}
+      \strng{fullhashraw}{0cad208a88251492c7ba82cdc36a0b9e}
+      \strng{bibnamehash}{0cad208a88251492c7ba82cdc36a0b9e}
+      \strng{authorbibnamehash}{0cad208a88251492c7ba82cdc36a0b9e}
+      \strng{authornamehash}{0cad208a88251492c7ba82cdc36a0b9e}
+      \strng{authorfullhash}{0cad208a88251492c7ba82cdc36a0b9e}
+      \strng{authorfullhashraw}{0cad208a88251492c7ba82cdc36a0b9e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{year}{2004}
+    \endentry
+    \entry{Adelman-2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4a7fcb8585956f7775b999238a29e6a0}{%
+           family={Adelman},
+           familyi={A\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{2}{%
+        {London}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{fullhash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{fullhashraw}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{bibnamehash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{authorbibnamehash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{authornamehash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{authorfullhash}{4a7fcb8585956f7775b999238a29e6a0}
+      \strng{authorfullhashraw}{4a7fcb8585956f7775b999238a29e6a0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Rise of Israel: A history of a revolutionary state}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Ambos-2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5697e9b8271951dfa45cf19c23831b9c}{%
+           family={Ambos},
+           familyi={A\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5697e9b8271951dfa45cf19c23831b9c}
+      \strng{fullhash}{5697e9b8271951dfa45cf19c23831b9c}
+      \strng{fullhashraw}{5697e9b8271951dfa45cf19c23831b9c}
+      \strng{bibnamehash}{5697e9b8271951dfa45cf19c23831b9c}
+      \strng{authorbibnamehash}{5697e9b8271951dfa45cf19c23831b9c}
+      \strng{authornamehash}{5697e9b8271951dfa45cf19c23831b9c}
+      \strng{authorfullhash}{5697e9b8271951dfa45cf19c23831b9c}
+      \strng{authorfullhashraw}{5697e9b8271951dfa45cf19c23831b9c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issue}{4}
+      \field{journaltitle}{Fordham International Law Journal}
+      \field{title}{Criminal \enquote{Apartheid} in the Occupied Palestinian Territory?: A Call for a More Nuanced Approach From the Perspective of International Criminal Law}
+      \field{volume}{47}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{485\bibrangedash 547}
+      \range{pages}{63}
+      \verb{urlraw}
+      \verb https://ssrn.com/abstract=4908657
+      \endverb
+      \verb{url}
+      \verb https://ssrn.com/abstract=4908657
+      \endverb
+    \endentry
+    \entry{Anderson-2018}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f438c529de10a1da3c1385fc42c1ce15}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Patrick\bibnamedelima D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Texas A\&M University}%
+      }
+      \strng{namehash}{f438c529de10a1da3c1385fc42c1ce15}
+      \strng{fullhash}{f438c529de10a1da3c1385fc42c1ce15}
+      \strng{fullhashraw}{f438c529de10a1da3c1385fc42c1ce15}
+      \strng{bibnamehash}{f438c529de10a1da3c1385fc42c1ce15}
+      \strng{authorbibnamehash}{f438c529de10a1da3c1385fc42c1ce15}
+      \strng{authornamehash}{f438c529de10a1da3c1385fc42c1ce15}
+      \strng{authorfullhash}{f438c529de10a1da3c1385fc42c1ce15}
+      \strng{authorfullhashraw}{f438c529de10a1da3c1385fc42c1ce15}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Anticolonial Amerika: Resisting the Zone of Nonbeing in an Anglo-Saxon Empire}
+      \field{type}{phdthesis}
+      \field{year}{2018}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://oaktrust.library.tamu.edu/server/api/core/bitstreams/720283fc-cef1-4222-8b39-1f28a6bc1e50/content
+      \endverb
+      \verb{url}
+      \verb https://oaktrust.library.tamu.edu/server/api/core/bitstreams/720283fc-cef1-4222-8b39-1f28a6bc1e50/content
+      \endverb
+    \endentry
+    \entry{Andrews-2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=55c7c310add77021c2f04eaad9b4d12d}{%
+           family={Andrews},
+           familyi={A\bibinitperiod},
+           given={Kehinde},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New Delhi, India}%
+      }
+      \list{publisher}{1}{%
+        {Allen Lane}%
+      }
+      \strng{namehash}{55c7c310add77021c2f04eaad9b4d12d}
+      \strng{fullhash}{55c7c310add77021c2f04eaad9b4d12d}
+      \strng{fullhashraw}{55c7c310add77021c2f04eaad9b4d12d}
+      \strng{bibnamehash}{55c7c310add77021c2f04eaad9b4d12d}
+      \strng{authorbibnamehash}{55c7c310add77021c2f04eaad9b4d12d}
+      \strng{authornamehash}{55c7c310add77021c2f04eaad9b4d12d}
+      \strng{authorfullhash}{55c7c310add77021c2f04eaad9b4d12d}
+      \strng{authorfullhashraw}{55c7c310add77021c2f04eaad9b4d12d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The new age of empire}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{Arendt-1944}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f50f57f3bb1808b3fd67c3e65baf025f}{%
+           family={Arendt},
+           familyi={A\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{bibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorbibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authornamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{The Review of Politics}
+      \field{number}{1}
+      \field{title}{Race-Thinking before Racism}
+      \field{volume}{6}
+      \field{year}{1944}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{36\bibrangedash 73}
+      \range{pages}{38}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/1404080
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/1404080
+      \endverb
+    \endentry
+    \entry{Bakan-2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4e9cc585d9b9e9ce78e0c7c101e23332}{%
+           family={Bakan},
+           familyi={B\bibinitperiod},
+           given={Abigail\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aa4051d141f689026236cb77be9514f}{%
+           family={Abu-Laban},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Yasmeen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Consortium Erudit}%
+      }
+      \strng{namehash}{89dea3b44c4b1616181f76760396c600}
+      \strng{fullhash}{89dea3b44c4b1616181f76760396c600}
+      \strng{fullhashraw}{89dea3b44c4b1616181f76760396c600}
+      \strng{bibnamehash}{89dea3b44c4b1616181f76760396c600}
+      \strng{authorbibnamehash}{89dea3b44c4b1616181f76760396c600}
+      \strng{authornamehash}{89dea3b44c4b1616181f76760396c600}
+      \strng{authorfullhash}{89dea3b44c4b1616181f76760396c600}
+      \strng{authorfullhashraw}{89dea3b44c4b1616181f76760396c600}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Atlantis}
+      \field{number}{1}
+      \field{title}{Intersectionality and the United Nations World Conference Against Racism}
+      \field{volume}{38}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{220\bibrangedash 235}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.7202/1119657ar
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.7202/1119657ar
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.7202/1119657ar
+      \endverb
+    \endentry
+    \entry{Bakan-2025}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4e9cc585d9b9e9ce78e0c7c101e23332}{%
+           family={Bakan},
+           familyi={B\bibinitperiod},
+           given={Abigail\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aa4051d141f689026236cb77be9514f}{%
+           family={Abu-Laban},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Yasmeen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{89dea3b44c4b1616181f76760396c600}
+      \strng{fullhash}{89dea3b44c4b1616181f76760396c600}
+      \strng{fullhashraw}{89dea3b44c4b1616181f76760396c600}
+      \strng{bibnamehash}{89dea3b44c4b1616181f76760396c600}
+      \strng{authorbibnamehash}{89dea3b44c4b1616181f76760396c600}
+      \strng{authornamehash}{89dea3b44c4b1616181f76760396c600}
+      \strng{authorfullhash}{89dea3b44c4b1616181f76760396c600}
+      \strng{authorfullhashraw}{89dea3b44c4b1616181f76760396c600}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Human Rights and the United Nations: Paradox and Promise}
+      \field{title}{Knowledge Production: Gender, Race, Indigenous Peoples and Politics, and the UN}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+    \endentry
+    \entry{Baldwin-2021}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b189b04c6e6e486338e39a2c9b1718a2}{%
+           family={Baldwin},
+           familyi={B\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           suffix={C.\bibnamedelimi \&\bibnamedelima Emile},
+           suffixi={C\bibinitperiod\bibinitdelim \\bibinitperiod\bibinitdelim E\bibinitperiod},
+           suffixun=0}}%
+      }
+      \strng{namehash}{b189b04c6e6e486338e39a2c9b1718a2}
+      \strng{fullhash}{b189b04c6e6e486338e39a2c9b1718a2}
+      \strng{fullhashraw}{b189b04c6e6e486338e39a2c9b1718a2}
+      \strng{bibnamehash}{b189b04c6e6e486338e39a2c9b1718a2}
+      \strng{authorbibnamehash}{b189b04c6e6e486338e39a2c9b1718a2}
+      \strng{authornamehash}{b189b04c6e6e486338e39a2c9b1718a2}
+      \strng{authorfullhash}{b189b04c6e6e486338e39a2c9b1718a2}
+      \strng{authorfullhashraw}{b189b04c6e6e486338e39a2c9b1718a2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{journaltitle}{EJIL:Talk! Blog of the European Journal of International Law}
+      \field{month}{7}
+      \field{title}{Human {{Rights Watch Responds}}: {{Reflections}} on {{Apartheid}} and {{Persecution}} in {{International Law}}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.ejiltalk.org/human-rights-watch-responds-reflections-on-apartheid-and-persecution-in-international-law/
+      \endverb
+      \verb{url}
+      \verb https://www.ejiltalk.org/human-rights-watch-responds-reflections-on-apartheid-and-persecution-in-international-law/
+      \endverb
+    \endentry
+    \entry{Bandyopadhyaya-1977}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a17e8cf3e50ad93eb4a05fb9432e08aa}{%
+           family={Bandyopadhyaya},
+           familyi={B\bibinitperiod},
+           given={Jayantanuja},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{a17e8cf3e50ad93eb4a05fb9432e08aa}
+      \strng{fullhash}{a17e8cf3e50ad93eb4a05fb9432e08aa}
+      \strng{fullhashraw}{a17e8cf3e50ad93eb4a05fb9432e08aa}
+      \strng{bibnamehash}{a17e8cf3e50ad93eb4a05fb9432e08aa}
+      \strng{authorbibnamehash}{a17e8cf3e50ad93eb4a05fb9432e08aa}
+      \strng{authornamehash}{a17e8cf3e50ad93eb4a05fb9432e08aa}
+      \strng{authorfullhash}{a17e8cf3e50ad93eb4a05fb9432e08aa}
+      \strng{authorfullhashraw}{a17e8cf3e50ad93eb4a05fb9432e08aa}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{0975-2684}
+      \field{journaltitle}{India Quarterly: A Journal of International Affairs}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{The Non-Aligned Movement and International Relations}
+      \field{volume}{33}
+      \field{year}{1977}
+      \true{nocite}
+      \field{pages}{137\bibrangedash 164}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1177/097492847703300201
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1177/097492847703300201
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1177/097492847703300201
+      \endverb
+    \endentry
+    \entry{Barreto-2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df77bdb62deb1091dd05d22edf7f3123}{%
+           family={Barreto},
+           familyi={B\bibinitperiod},
+           given={José\bibnamedelima Manuel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df77bdb62deb1091dd05d22edf7f3123}
+      \strng{fullhash}{df77bdb62deb1091dd05d22edf7f3123}
+      \strng{fullhashraw}{df77bdb62deb1091dd05d22edf7f3123}
+      \strng{bibnamehash}{df77bdb62deb1091dd05d22edf7f3123}
+      \strng{authorbibnamehash}{df77bdb62deb1091dd05d22edf7f3123}
+      \strng{authornamehash}{df77bdb62deb1091dd05d22edf7f3123}
+      \strng{authorfullhash}{df77bdb62deb1091dd05d22edf7f3123}
+      \strng{authorfullhashraw}{df77bdb62deb1091dd05d22edf7f3123}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Opinio Juris}
+      \field{month}{10}
+      \field{title}{Rethinking international law after Gaza symposium: The Palestinian genocide and the colonial core of international law}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://opiniojuris.org/2024/10/08/rethinking-international-law-after-gaza-symposium-the-palestinian-genocide-and-the-colonial-core-of-international-law/
+      \endverb
+      \verb{url}
+      \verb https://opiniojuris.org/2024/10/08/rethinking-international-law-after-gaza-symposium-the-palestinian-genocide-and-the-colonial-core-of-international-law/
+      \endverb
+    \endentry
+    \entry{Feagin-1999}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b58d2c081742253f9d0a9c696c4a1285}{%
+           family={Batur-Vanderlippe},
+           familyi={B\bibinithyphendelim V\bibinitperiod},
+           given={Pinar},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=240fe930004b0d73af30211d07358444}{%
+           family={Feagin},
+           familyi={F\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b58d2c081742253f9d0a9c696c4a1285}{%
+           family={Batur-Vanderlippe},
+           familyi={B\bibinithyphendelim V\bibinitperiod},
+           given={Pinar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=240fe930004b0d73af30211d07358444}{%
+           family={Feagin},
+           familyi={F\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stamford}%
+      }
+      \list{publisher}{1}{%
+        {Jai Press}%
+      }
+      \strng{namehash}{55456a98f58018be2b834a9e4662292a}
+      \strng{fullhash}{55456a98f58018be2b834a9e4662292a}
+      \strng{fullhashraw}{55456a98f58018be2b834a9e4662292a}
+      \strng{bibnamehash}{55456a98f58018be2b834a9e4662292a}
+      \strng{authorbibnamehash}{55456a98f58018be2b834a9e4662292a}
+      \strng{authornamehash}{55456a98f58018be2b834a9e4662292a}
+      \strng{authorfullhash}{55456a98f58018be2b834a9e4662292a}
+      \strng{authorfullhashraw}{55456a98f58018be2b834a9e4662292a}
+      \strng{editorbibnamehash}{55456a98f58018be2b834a9e4662292a}
+      \strng{editornamehash}{55456a98f58018be2b834a9e4662292a}
+      \strng{editorfullhash}{55456a98f58018be2b834a9e4662292a}
+      \strng{editorfullhashraw}{55456a98f58018be2b834a9e4662292a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The global color line: racial and ethnic inequality and struggle from a global perspective}
+      \field{series}{Research in politics and society}
+      \field{title}{Introduction}
+      \field{year}{1999}
+      \true{nocite}
+      \field{pages}{3\bibrangedash 25}
+      \range{pages}{23}
+    \endentry
+    \entry{Batur-1999}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3ae79a659f977641149dc7d01d757510}{%
+           family={Batur-VanderLippe},
+           familyi={B\bibinithyphendelim V\bibinitperiod},
+           given={Pinar},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=240fe930004b0d73af30211d07358444}{%
+           family={Feagin},
+           familyi={F\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=3ae79a659f977641149dc7d01d757510}{%
+           family={Batur-VanderLippe},
+           familyi={B\bibinithyphendelim V\bibinitperiod},
+           given={Pinar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=240fe930004b0d73af30211d07358444}{%
+           family={Feagin},
+           familyi={F\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stamford, CT}%
+      }
+      \list{publisher}{1}{%
+        {Jai Press}%
+      }
+      \strng{namehash}{f9dddc05b492bdf10391e292f6825a06}
+      \strng{fullhash}{f9dddc05b492bdf10391e292f6825a06}
+      \strng{fullhashraw}{f9dddc05b492bdf10391e292f6825a06}
+      \strng{bibnamehash}{f9dddc05b492bdf10391e292f6825a06}
+      \strng{authorbibnamehash}{f9dddc05b492bdf10391e292f6825a06}
+      \strng{authornamehash}{f9dddc05b492bdf10391e292f6825a06}
+      \strng{authorfullhash}{f9dddc05b492bdf10391e292f6825a06}
+      \strng{authorfullhashraw}{f9dddc05b492bdf10391e292f6825a06}
+      \strng{editorbibnamehash}{f9dddc05b492bdf10391e292f6825a06}
+      \strng{editornamehash}{f9dddc05b492bdf10391e292f6825a06}
+      \strng{editorfullhash}{f9dddc05b492bdf10391e292f6825a06}
+      \strng{editorfullhashraw}{f9dddc05b492bdf10391e292f6825a06}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The global color line: racial and ethnic inequality and struggle from a global perspective}
+      \field{title}{Racial and Ethnic Inequality and Stuggle from the Colonial Era to the Present}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{3\bibrangedash 21}
+      \range{pages}{19}
+    \endentry
+    \entry{Blum-2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2bddc3f42fbf0f374cd0b29f3ae74812}{%
+           family={Blum},
+           familyi={B\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{2bddc3f42fbf0f374cd0b29f3ae74812}
+      \strng{fullhash}{2bddc3f42fbf0f374cd0b29f3ae74812}
+      \strng{fullhashraw}{2bddc3f42fbf0f374cd0b29f3ae74812}
+      \strng{bibnamehash}{2bddc3f42fbf0f374cd0b29f3ae74812}
+      \strng{authorbibnamehash}{2bddc3f42fbf0f374cd0b29f3ae74812}
+      \strng{authornamehash}{2bddc3f42fbf0f374cd0b29f3ae74812}
+      \strng{authorfullhash}{2bddc3f42fbf0f374cd0b29f3ae74812}
+      \strng{authorfullhashraw}{2bddc3f42fbf0f374cd0b29f3ae74812}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{00269662}
+      \field{journaltitle}{The Monist}
+      \field{number}{2}
+      \field{title}{Racialized Groups: The Sociohistorical Consensus}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{93}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{298\bibrangedash 320}
+      \range{pages}{23}
+    \endentry
+    \entry{Silva-1999}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3c515ea5d5585349629a6903529fbb8}{%
+           family={Bonilla-Silva},
+           familyi={B\bibinithyphendelim S\bibinitperiod},
+           given={Eduardo},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a72f1e7ebeea3e13ba6206dab17ec3a0}{%
+           family={Batur-Vanderlippe},
+           familyi={B\bibinithyphendelim V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           suffix={P.\bibnamedelimi \&\bibnamedelima Feagin},
+           suffixi={P\bibinitperiod\bibinitdelim \\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stamford, CT}%
+      }
+      \list{publisher}{1}{%
+        {Jai Press}%
+      }
+      \strng{namehash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{fullhash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{fullhashraw}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{bibnamehash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{authorbibnamehash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{authornamehash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{authorfullhash}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{authorfullhashraw}{e3c515ea5d5585349629a6903529fbb8}
+      \strng{editorbibnamehash}{a72f1e7ebeea3e13ba6206dab17ec3a0}
+      \strng{editornamehash}{a72f1e7ebeea3e13ba6206dab17ec3a0}
+      \strng{editorfullhash}{a72f1e7ebeea3e13ba6206dab17ec3a0}
+      \strng{editorfullhashraw}{a72f1e7ebeea3e13ba6206dab17ec3a0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The global color line: racial and ethnic inequality and struggle from a global perspective}
+      \field{series}{Research in politics and society}
+      \field{title}{{`This is a White Country': The Racial Ideology of the Western Nations of the World-System}}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{Brookes-2023}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ce08854bcef8463a5a8218c539d21590}{%
+           family={Brookes},
+           familyi={B\bibinitperiod},
+           given={Edgar\bibnamedelima H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{ce08854bcef8463a5a8218c539d21590}
+      \strng{fullhash}{ce08854bcef8463a5a8218c539d21590}
+      \strng{fullhashraw}{ce08854bcef8463a5a8218c539d21590}
+      \strng{bibnamehash}{ce08854bcef8463a5a8218c539d21590}
+      \strng{authorbibnamehash}{ce08854bcef8463a5a8218c539d21590}
+      \strng{authornamehash}{ce08854bcef8463a5a8218c539d21590}
+      \strng{authorfullhash}{ce08854bcef8463a5a8218c539d21590}
+      \strng{authorfullhashraw}{ce08854bcef8463a5a8218c539d21590}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Second edition}
+      \field{isbn}{9781780765334}
+      \field{series}{Routledge Library Editions: South Africa, Volume 2}
+      \field{title}{Apartheid: A Documentary Study of Modern South Africa}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{Cohen-2011}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=06ac1a0a008fb94098671aa210e7821c}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Jack\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{06ac1a0a008fb94098671aa210e7821c}
+      \strng{fullhash}{06ac1a0a008fb94098671aa210e7821c}
+      \strng{fullhashraw}{06ac1a0a008fb94098671aa210e7821c}
+      \strng{bibnamehash}{06ac1a0a008fb94098671aa210e7821c}
+      \strng{authorbibnamehash}{06ac1a0a008fb94098671aa210e7821c}
+      \strng{authornamehash}{06ac1a0a008fb94098671aa210e7821c}
+      \strng{authorfullhash}{06ac1a0a008fb94098671aa210e7821c}
+      \strng{authorfullhashraw}{06ac1a0a008fb94098671aa210e7821c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Group Decision and Negotiation}
+      \field{month}{03}
+      \field{number}{4}
+      \field{title}{The Middle East Conflict in the Context of Tribal Disputes}
+      \field{volume}{20}
+      \field{year}{2011}
+      \true{nocite}
+      \field{pages}{373\bibrangedash 380}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/s10726-011-9240-z
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10726-011-9240-z
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10726-011-9240-z
+      \endverb
+    \endentry
+    \entry{Coticchia-2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=33dc2cc5d1618b167f0fd73ae644d8f3}{%
+           family={Coticchia},
+           familyi={C\bibinitperiod},
+           given={Fabrizio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7aa61a018ddd77a18033eb74883a5887}{%
+           family={Catanzaro},
+           familyi={C\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9cc599ed9b41e9235eb2ea7c34fa22d2}
+      \strng{fullhash}{9cc599ed9b41e9235eb2ea7c34fa22d2}
+      \strng{fullhashraw}{9cc599ed9b41e9235eb2ea7c34fa22d2}
+      \strng{bibnamehash}{9cc599ed9b41e9235eb2ea7c34fa22d2}
+      \strng{authorbibnamehash}{9cc599ed9b41e9235eb2ea7c34fa22d2}
+      \strng{authornamehash}{9cc599ed9b41e9235eb2ea7c34fa22d2}
+      \strng{authorfullhash}{9cc599ed9b41e9235eb2ea7c34fa22d2}
+      \strng{authorfullhashraw}{9cc599ed9b41e9235eb2ea7c34fa22d2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Media, War \& Conflict}
+      \field{number}{4}
+      \field{title}{The fog of words: Assessing the problematic relationship between strategic narratives, (master) frames and ideology}
+      \field{volume}{15}
+      \field{year}{2022}
+      \field{pages}{427\bibrangedash 449}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1177/1750635220965622
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/1750635220965622
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/1750635220965622
+      \endverb
+    \endentry
+    \entry{Davis-2016}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6d384893146df2b5553363742e8a86c5}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Angela\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=727448fc63bdd0c83ecbf6b3ab437b34}{%
+           family={Barat},
+           familyi={B\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Chicago, Illinois}%
+      }
+      \list{publisher}{1}{%
+        {Haymarket Books}%
+      }
+      \strng{namehash}{2ddfcd5aba0ffac55bc1c3296f87de39}
+      \strng{fullhash}{2ddfcd5aba0ffac55bc1c3296f87de39}
+      \strng{fullhashraw}{2ddfcd5aba0ffac55bc1c3296f87de39}
+      \strng{bibnamehash}{2ddfcd5aba0ffac55bc1c3296f87de39}
+      \strng{authorbibnamehash}{2ddfcd5aba0ffac55bc1c3296f87de39}
+      \strng{authornamehash}{2ddfcd5aba0ffac55bc1c3296f87de39}
+      \strng{authorfullhash}{2ddfcd5aba0ffac55bc1c3296f87de39}
+      \strng{authorfullhashraw}{2ddfcd5aba0ffac55bc1c3296f87de39}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781608465644}
+      \field{title}{Freedom is a constant struggle: Ferguson, Palestine, and the foundations of a movement}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{Davis-1968}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6ed40a4d0a3ab334ee477110d6543345}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {John Murray}%
+      }
+      \strng{namehash}{6ed40a4d0a3ab334ee477110d6543345}
+      \strng{fullhash}{6ed40a4d0a3ab334ee477110d6543345}
+      \strng{fullhashraw}{6ed40a4d0a3ab334ee477110d6543345}
+      \strng{bibnamehash}{6ed40a4d0a3ab334ee477110d6543345}
+      \strng{authorbibnamehash}{6ed40a4d0a3ab334ee477110d6543345}
+      \strng{authornamehash}{6ed40a4d0a3ab334ee477110d6543345}
+      \strng{authorfullhash}{6ed40a4d0a3ab334ee477110d6543345}
+      \strng{authorfullhashraw}{6ed40a4d0a3ab334ee477110d6543345}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780719518287}
+      \field{title}{The Evasive Peace: A Study of the Zionist-Arab problem}
+      \field{year}{1968}
+      \true{nocite}
+    \endentry
+    \entry{Doumani-2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=639ae0873dd3b6382675e00be801de9f}{%
+           family={Doumani},
+           familyi={D\bibinitperiod},
+           given={Beshara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e41186dea090f2b56c91167de649b13}{%
+           family={Winder},
+           familyi={W\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3fe3e70892aecb8b16d4a946ea151d08}
+      \strng{fullhash}{3fe3e70892aecb8b16d4a946ea151d08}
+      \strng{fullhashraw}{3fe3e70892aecb8b16d4a946ea151d08}
+      \strng{bibnamehash}{3fe3e70892aecb8b16d4a946ea151d08}
+      \strng{authorbibnamehash}{3fe3e70892aecb8b16d4a946ea151d08}
+      \strng{authornamehash}{3fe3e70892aecb8b16d4a946ea151d08}
+      \strng{authorfullhash}{3fe3e70892aecb8b16d4a946ea151d08}
+      \strng{authorfullhashraw}{3fe3e70892aecb8b16d4a946ea151d08}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{1533-8614}
+      \field{journaltitle}{Journal of Palestine Studies}
+      \field{month}{11}
+      \field{number}{1}
+      \field{title}{1948 and Its Shadows}
+      \field{volume}{48}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{7\bibrangedash 15}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1525/jps.2018.48.1.7
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1525/jps.2018.48.1.7
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1525/jps.2018.48.1.7
+      \endverb
+    \endentry
+    \entry{Dugard-2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ad051f0a715003789c9649ee282540ce}{%
+           family={Dugard},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d69504828c6e2c5c6a95994c82acac}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a69ee9b80f209375ee2d8c43560a9f27}
+      \strng{fullhash}{a69ee9b80f209375ee2d8c43560a9f27}
+      \strng{fullhashraw}{a69ee9b80f209375ee2d8c43560a9f27}
+      \strng{bibnamehash}{a69ee9b80f209375ee2d8c43560a9f27}
+      \strng{authorbibnamehash}{a69ee9b80f209375ee2d8c43560a9f27}
+      \strng{authornamehash}{a69ee9b80f209375ee2d8c43560a9f27}
+      \strng{authorfullhash}{a69ee9b80f209375ee2d8c43560a9f27}
+      \strng{authorfullhashraw}{a69ee9b80f209375ee2d8c43560a9f27}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{0938-5428}
+      \field{journaltitle}{European Journal of International Law}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Apartheid, International Law, and the Occupied Palestinian Territory}
+      \field{volume}{24}
+      \field{year}{2013}
+      \field{pages}{867\bibrangedash 913}
+      \range{pages}{47}
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/ejil/cht045
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/ejil/cht045
+      \endverb
+    \endentry
+    \entry{Ellis-2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4871348070a166065bf0cdfdb4dc110d}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Indiana University Press}%
+      }
+      \strng{namehash}{4871348070a166065bf0cdfdb4dc110d}
+      \strng{fullhash}{4871348070a166065bf0cdfdb4dc110d}
+      \strng{fullhashraw}{4871348070a166065bf0cdfdb4dc110d}
+      \strng{bibnamehash}{4871348070a166065bf0cdfdb4dc110d}
+      \strng{authorbibnamehash}{4871348070a166065bf0cdfdb4dc110d}
+      \strng{authornamehash}{4871348070a166065bf0cdfdb4dc110d}
+      \strng{authorfullhash}{4871348070a166065bf0cdfdb4dc110d}
+      \strng{authorfullhashraw}{4871348070a166065bf0cdfdb4dc110d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{10849513, 1527201X}
+      \field{journaltitle}{Israel Studies}
+      \field{number}{2}
+      \field{title}{Apartheid}
+      \field{urlday}{22}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{volume}{24}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{63\bibrangedash 72}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/10.2979/israelstudies.24.2.06
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/10.2979/israelstudies.24.2.06
+      \endverb
+    \endentry
+    \entry{Embrick-2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=770c6ad9d8b9dc53bc59f0f989cf3863}{%
+           family={Embrick},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6310c02742adf247cda9372b48dfede8}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Johnny\bibnamedelima Eric},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{49dcd3b3481d16a6f1c6909f48c5d01e}
+      \strng{fullhash}{49dcd3b3481d16a6f1c6909f48c5d01e}
+      \strng{fullhashraw}{49dcd3b3481d16a6f1c6909f48c5d01e}
+      \strng{bibnamehash}{49dcd3b3481d16a6f1c6909f48c5d01e}
+      \strng{authorbibnamehash}{49dcd3b3481d16a6f1c6909f48c5d01e}
+      \strng{authornamehash}{49dcd3b3481d16a6f1c6909f48c5d01e}
+      \strng{authorfullhash}{49dcd3b3481d16a6f1c6909f48c5d01e}
+      \strng{authorfullhashraw}{49dcd3b3481d16a6f1c6909f48c5d01e}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{1569-1632}
+      \field{journaltitle}{Critical Sociology}
+      \field{month}{5}
+      \field{number}{6}
+      \field{title}{Alienation, Racial Capitalism, and the Racialization of Palestinians}
+      \field{volume}{49}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{939\bibrangedash 951}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1177/08969205231172730
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1177/08969205231172730
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1177/08969205231172730
+      \endverb
+    \endentry
+    \entry{Erakat-2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bee58e8a7e8cfbf186eac51c1071bdc1}{%
+           family={Erakat},
+           familyi={E\bibinitperiod},
+           given={Noura},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9bd5d3167cf73e3d0b67f4489297b9f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Darryl},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d69504828c6e2c5c6a95994c82acac}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press (CUP)}%
+      }
+      \strng{namehash}{5704eadba67e23a72e24188a8a5b141a}
+      \strng{fullhash}{5704eadba67e23a72e24188a8a5b141a}
+      \strng{fullhashraw}{5704eadba67e23a72e24188a8a5b141a}
+      \strng{bibnamehash}{5704eadba67e23a72e24188a8a5b141a}
+      \strng{authorbibnamehash}{5704eadba67e23a72e24188a8a5b141a}
+      \strng{authornamehash}{5704eadba67e23a72e24188a8a5b141a}
+      \strng{authorfullhash}{5704eadba67e23a72e24188a8a5b141a}
+      \strng{authorfullhashraw}{5704eadba67e23a72e24188a8a5b141a}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{2398-7723}
+      \field{journaltitle}{AJIL Unbound}
+      \field{title}{Race, Palestine, and International Law}
+      \field{volume}{117}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{77\bibrangedash 81}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1017/aju.2023.9
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1017/aju.2023.9
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1017/aju.2023.9
+      \endverb
+    \endentry
+    \entry{Falk-2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e149ed0cc036a811c5d99777be1830fc}{%
+           family={Falk},
+           familyi={F\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=641d8d80e963936cc606ba25ca8ba0f4}{%
+           family={Tilley},
+           familyi={T\bibinitperiod},
+           given={Virginia\bibnamedelima Q.},
+           giveni={V\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{23de757eaf6ddc953b34b8b29007491e}
+      \strng{fullhash}{23de757eaf6ddc953b34b8b29007491e}
+      \strng{fullhashraw}{23de757eaf6ddc953b34b8b29007491e}
+      \strng{bibnamehash}{23de757eaf6ddc953b34b8b29007491e}
+      \strng{authorbibnamehash}{23de757eaf6ddc953b34b8b29007491e}
+      \strng{authornamehash}{23de757eaf6ddc953b34b8b29007491e}
+      \strng{authorfullhash}{23de757eaf6ddc953b34b8b29007491e}
+      \strng{authorfullhashraw}{23de757eaf6ddc953b34b8b29007491e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Palestine and the Israeli Occupation}
+      \field{number}{1}
+      \field{title}{Israeli Practices towards the Palestinian People and the Question of Apartheid}
+      \field{volume}{1}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 65}
+      \range{pages}{65}
+    \endentry
+    \entry{Feldman-2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5798d2eae1dc8af5ec0fc4b43d248fc0}{%
+           family={Feldman},
+           familyi={F\bibinitperiod},
+           given={Keith\bibnamedelima P.},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis}%
+      }
+      \list{publisher}{1}{%
+        {London: University of Minnesota Press}%
+      }
+      \strng{namehash}{5798d2eae1dc8af5ec0fc4b43d248fc0}
+      \strng{fullhash}{5798d2eae1dc8af5ec0fc4b43d248fc0}
+      \strng{fullhashraw}{5798d2eae1dc8af5ec0fc4b43d248fc0}
+      \strng{bibnamehash}{5798d2eae1dc8af5ec0fc4b43d248fc0}
+      \strng{authorbibnamehash}{5798d2eae1dc8af5ec0fc4b43d248fc0}
+      \strng{authornamehash}{5798d2eae1dc8af5ec0fc4b43d248fc0}
+      \strng{authorfullhash}{5798d2eae1dc8af5ec0fc4b43d248fc0}
+      \strng{authorfullhashraw}{5798d2eae1dc8af5ec0fc4b43d248fc0}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780816694501}
+      \field{title}{A Shadow Over Palestine: The Imperial Life of Race in America}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{Fischer-2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f0d850137ba0c5744d5dd43cb9d84f4}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Nina},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{0f0d850137ba0c5744d5dd43cb9d84f4}
+      \strng{fullhash}{0f0d850137ba0c5744d5dd43cb9d84f4}
+      \strng{fullhashraw}{0f0d850137ba0c5744d5dd43cb9d84f4}
+      \strng{bibnamehash}{0f0d850137ba0c5744d5dd43cb9d84f4}
+      \strng{authorbibnamehash}{0f0d850137ba0c5744d5dd43cb9d84f4}
+      \strng{authornamehash}{0f0d850137ba0c5744d5dd43cb9d84f4}
+      \strng{authorfullhash}{0f0d850137ba0c5744d5dd43cb9d84f4}
+      \strng{authorfullhashraw}{0f0d850137ba0c5744d5dd43cb9d84f4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Interventions}
+      \field{number}{8}
+      \field{title}{Palestinian Non-Violent Resistance and the Apartheid Analogy}
+      \field{volume}{23}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{1124\bibrangedash 1139}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/1369801X.2020.1816853
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/1369801X.2020.1816853
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/1369801X.2020.1816853
+      \endverb
+    \endentry
+    \entry{Fishman-2011}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f708656927bb665d083d7adbb9703fb0}{%
+           family={Fishman},
+           familyi={F\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{f708656927bb665d083d7adbb9703fb0}
+      \strng{fullhash}{f708656927bb665d083d7adbb9703fb0}
+      \strng{fullhashraw}{f708656927bb665d083d7adbb9703fb0}
+      \strng{bibnamehash}{f708656927bb665d083d7adbb9703fb0}
+      \strng{authorbibnamehash}{f708656927bb665d083d7adbb9703fb0}
+      \strng{authornamehash}{f708656927bb665d083d7adbb9703fb0}
+      \strng{authorfullhash}{f708656927bb665d083d7adbb9703fb0}
+      \strng{authorfullhashraw}{f708656927bb665d083d7adbb9703fb0}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Israel Journal of Foreign Affairs}
+      \field{number}{3}
+      \field{title}{`A Disaster of Another Kind': Zionism=Racism, Its Beginning, and the War of Delegitimization against Israel}
+      \field{volume}{5}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{75\bibrangedash 92}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1080/23739770.2011.11446473
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/23739770.2011.11446473
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/23739770.2011.11446473
+      \endverb
+    \endentry
+    \entry{Ganguly-2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9cbd432819b92a57978f0ac2c476e028}{%
+           family={Ganguly},
+           familyi={G\bibinitperiod},
+           given={Keya},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{9cbd432819b92a57978f0ac2c476e028}
+      \strng{fullhash}{9cbd432819b92a57978f0ac2c476e028}
+      \strng{fullhashraw}{9cbd432819b92a57978f0ac2c476e028}
+      \strng{bibnamehash}{9cbd432819b92a57978f0ac2c476e028}
+      \strng{authorbibnamehash}{9cbd432819b92a57978f0ac2c476e028}
+      \strng{authornamehash}{9cbd432819b92a57978f0ac2c476e028}
+      \strng{authorfullhash}{9cbd432819b92a57978f0ac2c476e028}
+      \strng{authorfullhashraw}{9cbd432819b92a57978f0ac2c476e028}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{21599785, 21599793}
+      \field{journaltitle}{History of the Present}
+      \field{number}{1}
+      \field{title}{Roundtable: Revisiting Edward Said's Orientalism}
+      \field{urlday}{12}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{volume}{5}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{pp. 65\bibrangedash 82}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/10.5406/historypresent.5.1.0065
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/10.5406/historypresent.5.1.0065
+      \endverb
+    \endentry
+    \entry{Garner-2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2d4ec07bb8a5d6cc6b1c89f2508e7970}{%
+           family={Garner},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{2d4ec07bb8a5d6cc6b1c89f2508e7970}
+      \strng{fullhash}{2d4ec07bb8a5d6cc6b1c89f2508e7970}
+      \strng{fullhashraw}{2d4ec07bb8a5d6cc6b1c89f2508e7970}
+      \strng{bibnamehash}{2d4ec07bb8a5d6cc6b1c89f2508e7970}
+      \strng{authorbibnamehash}{2d4ec07bb8a5d6cc6b1c89f2508e7970}
+      \strng{authornamehash}{2d4ec07bb8a5d6cc6b1c89f2508e7970}
+      \strng{authorfullhash}{2d4ec07bb8a5d6cc6b1c89f2508e7970}
+      \strng{authorfullhashraw}{2d4ec07bb8a5d6cc6b1c89f2508e7970}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781412945813}
+      \field{title}{Racisms: An Introduction}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{Glenn-2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1eeb73632e04f794cdad74eab608ddfd}{%
+           family={Glenn},
+           familyi={G\bibinitperiod},
+           given={Evelyn\bibnamedelima Nakano},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Inc}%
+      }
+      \strng{namehash}{1eeb73632e04f794cdad74eab608ddfd}
+      \strng{fullhash}{1eeb73632e04f794cdad74eab608ddfd}
+      \strng{fullhashraw}{1eeb73632e04f794cdad74eab608ddfd}
+      \strng{bibnamehash}{1eeb73632e04f794cdad74eab608ddfd}
+      \strng{authorbibnamehash}{1eeb73632e04f794cdad74eab608ddfd}
+      \strng{authornamehash}{1eeb73632e04f794cdad74eab608ddfd}
+      \strng{authorfullhash}{1eeb73632e04f794cdad74eab608ddfd}
+      \strng{authorfullhashraw}{1eeb73632e04f794cdad74eab608ddfd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{2332-6492}
+      \field{journaltitle}{Sociology of Race and Ethnicity}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Settler Colonialism as Structure: A Framework for Comparative Studies of U.S. Race and Gender Formation}}
+      \field{volume}{1}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{52\bibrangedash 72}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1177/2332649214560440
+      \endverb
+    \endentry
+    \entry{Golan-1988}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=654b3babf0222e6964a105eb5f1663dc}{%
+           family={Golan},
+           familyi={G\bibinitperiod},
+           given={Zev},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London Sydney Wellington}%
+      }
+      \list{publisher}{1}{%
+        {Unwin Hyman}%
+      }
+      \strng{namehash}{654b3babf0222e6964a105eb5f1663dc}
+      \strng{fullhash}{654b3babf0222e6964a105eb5f1663dc}
+      \strng{fullhashraw}{654b3babf0222e6964a105eb5f1663dc}
+      \strng{bibnamehash}{654b3babf0222e6964a105eb5f1663dc}
+      \strng{authorbibnamehash}{654b3babf0222e6964a105eb5f1663dc}
+      \strng{authornamehash}{654b3babf0222e6964a105eb5f1663dc}
+      \strng{authorfullhash}{654b3babf0222e6964a105eb5f1663dc}
+      \strng{authorfullhashraw}{654b3babf0222e6964a105eb5f1663dc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Soviet Union and National Liberation Movements in the Third World}
+      \field{year}{1988}
+      \true{nocite}
+    \endentry
+    \entry{Goldberg-2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c0d730c291838217af29da73b6d03b96}{%
+           family={Goldberg},
+           familyi={G\bibinitperiod},
+           given={Zach},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c0d730c291838217af29da73b6d03b96}
+      \strng{fullhash}{c0d730c291838217af29da73b6d03b96}
+      \strng{fullhashraw}{c0d730c291838217af29da73b6d03b96}
+      \strng{bibnamehash}{c0d730c291838217af29da73b6d03b96}
+      \strng{authorbibnamehash}{c0d730c291838217af29da73b6d03b96}
+      \strng{authornamehash}{c0d730c291838217af29da73b6d03b96}
+      \strng{authorfullhash}{c0d730c291838217af29da73b6d03b96}
+      \strng{authorfullhashraw}{c0d730c291838217af29da73b6d03b96}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tablet Magazine}
+      \field{month}{8}
+      \field{title}{How the Media Led the Great Racial Awakening}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.tabletmag.com/sections/news/articles/media-great-racial-awakening
+      \endverb
+      \verb{url}
+      \verb https://www.tabletmag.com/sections/news/articles/media-great-racial-awakening
+      \endverb
+    \endentry
+    \entry{Graeber-1953}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6dbfdd8bb823500f52ce31a79a81e5c2}{%
+           family={Graeber},
+           familyi={G\bibinitperiod},
+           given={Iaaque},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The New School}%
+      }
+      \strng{namehash}{6dbfdd8bb823500f52ce31a79a81e5c2}
+      \strng{fullhash}{6dbfdd8bb823500f52ce31a79a81e5c2}
+      \strng{fullhashraw}{6dbfdd8bb823500f52ce31a79a81e5c2}
+      \strng{bibnamehash}{6dbfdd8bb823500f52ce31a79a81e5c2}
+      \strng{authorbibnamehash}{6dbfdd8bb823500f52ce31a79a81e5c2}
+      \strng{authornamehash}{6dbfdd8bb823500f52ce31a79a81e5c2}
+      \strng{authorfullhash}{6dbfdd8bb823500f52ce31a79a81e5c2}
+      \strng{authorfullhashraw}{6dbfdd8bb823500f52ce31a79a81e5c2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Social Research}
+      \field{number}{3}
+      \field{title}{An Examination of Theories of Race Prejudice}
+      \field{volume}{20}
+      \field{year}{1953}
+      \true{nocite}
+      \field{pages}{267\bibrangedash 281}
+      \range{pages}{15}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/40969495
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/40969495
+      \endverb
+    \endentry
+    \entry{Grosfoguel-2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd61862ecf09207433f5570756fa0bdc}{%
+           family={Grosfoguel},
+           familyi={G\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd61862ecf09207433f5570756fa0bdc}
+      \strng{fullhash}{bd61862ecf09207433f5570756fa0bdc}
+      \strng{fullhashraw}{bd61862ecf09207433f5570756fa0bdc}
+      \strng{bibnamehash}{bd61862ecf09207433f5570756fa0bdc}
+      \strng{authorbibnamehash}{bd61862ecf09207433f5570756fa0bdc}
+      \strng{authornamehash}{bd61862ecf09207433f5570756fa0bdc}
+      \strng{authorfullhash}{bd61862ecf09207433f5570756fa0bdc}
+      \strng{authorfullhashraw}{bd61862ecf09207433f5570756fa0bdc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{1076-156X}
+      \field{journaltitle}{Journal of World-Systems Research}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{What is Racism?}
+      \field{volume}{22}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{9\bibrangedash 15}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.5195/jwsr.2016.609
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.5195/jwsr.2016.609
+      \endverb
+    \endentry
+    \entry{Hesse-2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d7cae390a460fd7477f31cd1c34f886}{%
+           family={Hesse},
+           familyi={H\bibinitperiod},
+           given={Barnor},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{6d7cae390a460fd7477f31cd1c34f886}
+      \strng{fullhash}{6d7cae390a460fd7477f31cd1c34f886}
+      \strng{fullhashraw}{6d7cae390a460fd7477f31cd1c34f886}
+      \strng{bibnamehash}{6d7cae390a460fd7477f31cd1c34f886}
+      \strng{authorbibnamehash}{6d7cae390a460fd7477f31cd1c34f886}
+      \strng{authornamehash}{6d7cae390a460fd7477f31cd1c34f886}
+      \strng{authorfullhash}{6d7cae390a460fd7477f31cd1c34f886}
+      \strng{authorfullhashraw}{6d7cae390a460fd7477f31cd1c34f886}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Social Identities}
+      \field{number}{1}
+      \field{title}{Im/plausible deniability: racism's conceptual double bind}
+      \field{volume}{10}
+      \field{year}{2004}
+      \true{nocite}
+      \field{pages}{9\bibrangedash 29}
+      \range{pages}{21}
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/1350463042000190976
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/1350463042000190976
+      \endverb
+    \endentry
+    \entry{ICC-how-court-works}{online}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{How the {{Court}} Works}
+      \field{urlday}{22}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.icc-cpi.int/about/how-the-court-works
+      \endverb
+      \verb{url}
+      \verb https://www.icc-cpi.int/about/how-the-court-works
+      \endverb
+    \endentry
+    \entry{Irwin-2012}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f40466266dd8c02fb430d43dcf403c8f}{%
+           family={Irwin},
+           familyi={I\bibinitperiod},
+           given={Ryan\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{f40466266dd8c02fb430d43dcf403c8f}
+      \strng{fullhash}{f40466266dd8c02fb430d43dcf403c8f}
+      \strng{fullhashraw}{f40466266dd8c02fb430d43dcf403c8f}
+      \strng{bibnamehash}{f40466266dd8c02fb430d43dcf403c8f}
+      \strng{authorbibnamehash}{f40466266dd8c02fb430d43dcf403c8f}
+      \strng{authornamehash}{f40466266dd8c02fb430d43dcf403c8f}
+      \strng{authorfullhash}{f40466266dd8c02fb430d43dcf403c8f}
+      \strng{authorfullhashraw}{f40466266dd8c02fb430d43dcf403c8f}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780199855612}
+      \field{series}{Oxford Studies in International History}
+      \field{title}{Gordian Knot: Apartheid and the Unmaking of the Liberal World Order}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{Jensen-2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a64fb1687d5627abf672129e4fe1ddc0}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Steven\bibnamedelima L.B.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a64fb1687d5627abf672129e4fe1ddc0}
+      \strng{fullhash}{a64fb1687d5627abf672129e4fe1ddc0}
+      \strng{fullhashraw}{a64fb1687d5627abf672129e4fe1ddc0}
+      \strng{bibnamehash}{a64fb1687d5627abf672129e4fe1ddc0}
+      \strng{authorbibnamehash}{a64fb1687d5627abf672129e4fe1ddc0}
+      \strng{authornamehash}{a64fb1687d5627abf672129e4fe1ddc0}
+      \strng{authorfullhash}{a64fb1687d5627abf672129e4fe1ddc0}
+      \strng{authorfullhashraw}{a64fb1687d5627abf672129e4fe1ddc0}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781107112162}
+      \field{series}{Human Rights in History}
+      \field{title}{The Making of International Human Rights: The 1960s, Decolonization and the Reconstruction of Global Values}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{Kelman-1997}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f7848ec03a9a588461075200c82dc92}{%
+           family={Kelman},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter GmbH}%
+      }
+      \strng{namehash}{6f7848ec03a9a588461075200c82dc92}
+      \strng{fullhash}{6f7848ec03a9a588461075200c82dc92}
+      \strng{fullhashraw}{6f7848ec03a9a588461075200c82dc92}
+      \strng{bibnamehash}{6f7848ec03a9a588461075200c82dc92}
+      \strng{authorbibnamehash}{6f7848ec03a9a588461075200c82dc92}
+      \strng{authornamehash}{6f7848ec03a9a588461075200c82dc92}
+      \strng{authorfullhash}{6f7848ec03a9a588461075200c82dc92}
+      \strng{authorfullhashraw}{6f7848ec03a9a588461075200c82dc92}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{1571-8069}
+      \field{journaltitle}{International Negotiation}
+      \field{number}{2}
+      \field{title}{Some Determinants of the Oslo Breakthrough}
+      \field{volume}{2}
+      \field{year}{1997}
+      \true{nocite}
+      \field{pages}{183\bibrangedash 194}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1163/15718069720847933
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1163/15718069720847933
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1163/15718069720847933
+      \endverb
+    \endentry
+    \entry{Kincheloe-2007}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d417ebb91c806f99066e51ac3e447773}{%
+           family={Kincheloe},
+           familyi={K\bibinitperiod},
+           given={Joe\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=370b9035ac6772c09f3a36e89bea3e81}{%
+           family={Peter\bibnamedelima McLaren},
+           familyi={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Joe\bibnamedelimb L.\bibnamedelimi Kincheloe},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Peter Lang}%
+      }
+      \strng{namehash}{d417ebb91c806f99066e51ac3e447773}
+      \strng{fullhash}{d417ebb91c806f99066e51ac3e447773}
+      \strng{fullhashraw}{d417ebb91c806f99066e51ac3e447773}
+      \strng{bibnamehash}{d417ebb91c806f99066e51ac3e447773}
+      \strng{authorbibnamehash}{d417ebb91c806f99066e51ac3e447773}
+      \strng{authornamehash}{d417ebb91c806f99066e51ac3e447773}
+      \strng{authorfullhash}{d417ebb91c806f99066e51ac3e447773}
+      \strng{authorfullhashraw}{d417ebb91c806f99066e51ac3e447773}
+      \strng{editorbibnamehash}{370b9035ac6772c09f3a36e89bea3e81}
+      \strng{editornamehash}{370b9035ac6772c09f3a36e89bea3e81}
+      \strng{editorfullhash}{370b9035ac6772c09f3a36e89bea3e81}
+      \strng{editorfullhashraw}{370b9035ac6772c09f3a36e89bea3e81}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Critical pedagogy: where are we now?}
+      \field{isbn}{9780820497303}
+      \field{title}{Critical Pedagogy in the Twenty-first Century}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{9\bibrangedash 42}
+      \range{pages}{34}
+    \endentry
+    \entry{Klotz-1995}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cd95e892bf9c24257452244ac3e9f88b}{%
+           family={Klotz},
+           familyi={K\bibinitperiod},
+           given={Audi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{2}{%
+        {Ithaca}%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Cornell University Press}%
+      }
+      \strng{namehash}{cd95e892bf9c24257452244ac3e9f88b}
+      \strng{fullhash}{cd95e892bf9c24257452244ac3e9f88b}
+      \strng{fullhashraw}{cd95e892bf9c24257452244ac3e9f88b}
+      \strng{bibnamehash}{cd95e892bf9c24257452244ac3e9f88b}
+      \strng{authorbibnamehash}{cd95e892bf9c24257452244ac3e9f88b}
+      \strng{authornamehash}{cd95e892bf9c24257452244ac3e9f88b}
+      \strng{authorfullhash}{cd95e892bf9c24257452244ac3e9f88b}
+      \strng{authorfullhashraw}{cd95e892bf9c24257452244ac3e9f88b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Cornell Studies in Political Economy}
+      \field{title}{Norms in International Relations: The Struggle Against Apartheid}
+      \field{year}{1995}
+      \true{nocite}
+    \endentry
+    \entry{Kohli-2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=28e187970e3d596f3be9acea296ba7a3}{%
+           family={Kohli},
+           familyi={K\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3242285657640251ac2d789a3fb61d23}{%
+           family={Pizarro},
+           familyi={P\bibinitperiod},
+           given={Marcos},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=faf26a5bd0619cc60f4109a0e1dca2ca}{%
+           family={Nevárez},
+           familyi={N\bibinitperiod},
+           given={Arturo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee5dfae3b596b4e6e6bef16e467081a8}
+      \strng{fullhash}{ee5dfae3b596b4e6e6bef16e467081a8}
+      \strng{fullhashraw}{ee5dfae3b596b4e6e6bef16e467081a8}
+      \strng{bibnamehash}{ee5dfae3b596b4e6e6bef16e467081a8}
+      \strng{authorbibnamehash}{ee5dfae3b596b4e6e6bef16e467081a8}
+      \strng{authornamehash}{ee5dfae3b596b4e6e6bef16e467081a8}
+      \strng{authorfullhash}{ee5dfae3b596b4e6e6bef16e467081a8}
+      \strng{authorfullhashraw}{ee5dfae3b596b4e6e6bef16e467081a8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Review of Research in Education}
+      \field{title}{The 'New Racism' of K-12 Schools: Centering Critical Research on Racism}
+      \field{urlyear}{2024-12-24}
+      \field{volume}{41}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{182\bibrangedash 202}
+      \range{pages}{21}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/44668692
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/44668692
+      \endverb
+    \endentry
+    \entry{Larrimore-2006}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff992f9305ec659864734d0d83f7022f}{%
+           family={Larrimore},
+           familyi={L\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=6ecf5de8b624c95db9092de9471d8799}{%
+           family={Larrimore},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           suffix={M.\bibnamedelimi \&\bibnamedelima Eigen},
+           suffixi={M\bibinitperiod\bibinitdelim \\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Albany, NY}%
+      }
+      \list{publisher}{1}{%
+        {State Univ. of New York Press}%
+      }
+      \strng{namehash}{ff992f9305ec659864734d0d83f7022f}
+      \strng{fullhash}{ff992f9305ec659864734d0d83f7022f}
+      \strng{fullhashraw}{ff992f9305ec659864734d0d83f7022f}
+      \strng{bibnamehash}{ff992f9305ec659864734d0d83f7022f}
+      \strng{authorbibnamehash}{ff992f9305ec659864734d0d83f7022f}
+      \strng{authornamehash}{ff992f9305ec659864734d0d83f7022f}
+      \strng{authorfullhash}{ff992f9305ec659864734d0d83f7022f}
+      \strng{authorfullhashraw}{ff992f9305ec659864734d0d83f7022f}
+      \strng{editorbibnamehash}{6ecf5de8b624c95db9092de9471d8799}
+      \strng{editornamehash}{6ecf5de8b624c95db9092de9471d8799}
+      \strng{editorfullhash}{6ecf5de8b624c95db9092de9471d8799}
+      \strng{editorfullhashraw}{6ecf5de8b624c95db9092de9471d8799}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{booktitle}{The German invention of race}
+      \field{isbn}{9780791466780}
+      \field{series}{SUNY series Philosophy and race}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+    \entry{Lauren-1988}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a19b19a683356d17a9ee474e56466091}{%
+           family={Lauren},
+           familyi={L\bibinitperiod},
+           given={Paul\bibnamedelima Golden},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boulder \& London}%
+      }
+      \list{publisher}{1}{%
+        {Westview Press}%
+      }
+      \strng{namehash}{a19b19a683356d17a9ee474e56466091}
+      \strng{fullhash}{a19b19a683356d17a9ee474e56466091}
+      \strng{fullhashraw}{a19b19a683356d17a9ee474e56466091}
+      \strng{bibnamehash}{a19b19a683356d17a9ee474e56466091}
+      \strng{authorbibnamehash}{a19b19a683356d17a9ee474e56466091}
+      \strng{authornamehash}{a19b19a683356d17a9ee474e56466091}
+      \strng{authorfullhash}{a19b19a683356d17a9ee474e56466091}
+      \strng{authorfullhashraw}{a19b19a683356d17a9ee474e56466091}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Power and Prejudice: The Politics and Diplomacy of Racial Discrimination}
+      \field{year}{1988}
+      \true{nocite}
+    \endentry
+    \entry{Leiss-1965}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=720653dee41962e9b3f38ccd9390bdfb}{%
+           family={Leiss},
+           familyi={L\bibinitperiod},
+           given={Amelia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3907c7ae064e2f02a75f5ab75a7da293}{%
+           family={McKay},
+           familyi={M\bibinitperiod},
+           given={Vernon},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=720653dee41962e9b3f38ccd9390bdfb}{%
+           family={Leiss},
+           familyi={L\bibinitperiod},
+           given={Amelia},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Carnegie Endowment for Peace}%
+      }
+      \strng{namehash}{e1d35088e68e7aff14a03bd2b704e8fe}
+      \strng{fullhash}{e1d35088e68e7aff14a03bd2b704e8fe}
+      \strng{fullhashraw}{e1d35088e68e7aff14a03bd2b704e8fe}
+      \strng{bibnamehash}{e1d35088e68e7aff14a03bd2b704e8fe}
+      \strng{authorbibnamehash}{e1d35088e68e7aff14a03bd2b704e8fe}
+      \strng{authornamehash}{e1d35088e68e7aff14a03bd2b704e8fe}
+      \strng{authorfullhash}{e1d35088e68e7aff14a03bd2b704e8fe}
+      \strng{authorfullhashraw}{e1d35088e68e7aff14a03bd2b704e8fe}
+      \strng{editorbibnamehash}{720653dee41962e9b3f38ccd9390bdfb}
+      \strng{editornamehash}{720653dee41962e9b3f38ccd9390bdfb}
+      \strng{editorfullhash}{720653dee41962e9b3f38ccd9390bdfb}
+      \strng{editorfullhashraw}{720653dee41962e9b3f38ccd9390bdfb}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{apartheid and united nations collective measures -- an analysis}
+      \field{title}{The Issues After Two Decades}
+      \field{year}{1965}
+      \true{nocite}
+    \endentry
+    \entry{Lennox-2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aaabd50d7cabfeb6b04cf05384e97612}{%
+           family={Lennox},
+           familyi={L\bibinitperiod},
+           given={Corinne},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aaabd50d7cabfeb6b04cf05384e97612}
+      \strng{fullhash}{aaabd50d7cabfeb6b04cf05384e97612}
+      \strng{fullhashraw}{aaabd50d7cabfeb6b04cf05384e97612}
+      \strng{bibnamehash}{aaabd50d7cabfeb6b04cf05384e97612}
+      \strng{authorbibnamehash}{aaabd50d7cabfeb6b04cf05384e97612}
+      \strng{authornamehash}{aaabd50d7cabfeb6b04cf05384e97612}
+      \strng{authorfullhash}{aaabd50d7cabfeb6b04cf05384e97612}
+      \strng{authorfullhashraw}{aaabd50d7cabfeb6b04cf05384e97612}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Netherlands Quarterly of Human Rights}
+      \field{number}{2}
+      \field{title}{Reviewing Durban: Examining the Outputs and Review of the 2001 World Conference against Racism}
+      \field{volume}{27}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{191\bibrangedash 235}
+      \range{pages}{45}
+      \verb{doi}
+      \verb 10.1177/016934410902700204
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/016934410902700204
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/016934410902700204
+      \endverb
+    \endentry
+    \entry{Lewis-2024}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e6c8ae06ad7dafdb6083578d21d28d0}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Sarah\bibnamedelima Elizabeth},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{1e6c8ae06ad7dafdb6083578d21d28d0}
+      \strng{fullhash}{1e6c8ae06ad7dafdb6083578d21d28d0}
+      \strng{fullhashraw}{1e6c8ae06ad7dafdb6083578d21d28d0}
+      \strng{bibnamehash}{1e6c8ae06ad7dafdb6083578d21d28d0}
+      \strng{authorbibnamehash}{1e6c8ae06ad7dafdb6083578d21d28d0}
+      \strng{authornamehash}{1e6c8ae06ad7dafdb6083578d21d28d0}
+      \strng{authorfullhash}{1e6c8ae06ad7dafdb6083578d21d28d0}
+      \strng{authorfullhashraw}{1e6c8ae06ad7dafdb6083578d21d28d0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780674297739}
+      \field{title}{The unseen truth: when race changed sight in America}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+    \entry{Lingaas-2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2b831c2afa46c26117b949cb5c156da1}{%
+           family={Lingaas},
+           familyi={L\bibinitperiod},
+           given={Carola},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Scandinavian University Press}%
+      }
+      \strng{namehash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{fullhash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{fullhashraw}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{bibnamehash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{authorbibnamehash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{authornamehash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{authorfullhash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{authorfullhashraw}{2b831c2afa46c26117b949cb5c156da1}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{2387-3299}
+      \field{journaltitle}{Oslo Law Review}
+      \field{month}{11}
+      \field{number}{2}
+      \field{title}{The Crime against Humanity of Apartheid in a Post-Apartheid World}
+      \field{volume}{2}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{86\bibrangedash 115}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.5617/oslaw2566
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.5617/oslaw2566
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.5617/oslaw2566
+      \endverb
+    \endentry
+    \entry{Lingaas-2019}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2b831c2afa46c26117b949cb5c156da1}{%
+           family={Lingaas},
+           familyi={L\bibinitperiod},
+           given={Carola},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{fullhash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{fullhashraw}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{bibnamehash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{authorbibnamehash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{authornamehash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{authorfullhash}{2b831c2afa46c26117b949cb5c156da1}
+      \strng{authorfullhashraw}{2b831c2afa46c26117b949cb5c156da1}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{International and Comparative Criminal Justice}
+      \field{title}{The concept of race in international criminal law}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{Lockman-2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3855b2675ee5219e3ae9cad95f4abb8}{%
+           family={Lockman},
+           familyi={L\bibinitperiod},
+           given={Zachary},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b3855b2675ee5219e3ae9cad95f4abb8}
+      \strng{fullhash}{b3855b2675ee5219e3ae9cad95f4abb8}
+      \strng{fullhashraw}{b3855b2675ee5219e3ae9cad95f4abb8}
+      \strng{bibnamehash}{b3855b2675ee5219e3ae9cad95f4abb8}
+      \strng{authorbibnamehash}{b3855b2675ee5219e3ae9cad95f4abb8}
+      \strng{authornamehash}{b3855b2675ee5219e3ae9cad95f4abb8}
+      \strng{authorfullhash}{b3855b2675ee5219e3ae9cad95f4abb8}
+      \strng{authorfullhashraw}{b3855b2675ee5219e3ae9cad95f4abb8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Settler Colonial Studies}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Land, {Labor} and the {Logic} of {Zionism}}
+      \field{title}{Land, {Labor} and the {Logic} of {Zionism}: {A} {Critical} {Engagement} with {Gershon} {Shafir}}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{2}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{9\bibrangedash 38}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1080/2201473X.2012.10648824
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/2201473X.2012.10648824
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/2201473X.2012.10648824
+      \endverb
+    \endentry
+    \entry{Lodge-2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1a86ad776e8d03ded7898683473212c}{%
+           family={Lodge},
+           familyi={L\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{b1a86ad776e8d03ded7898683473212c}
+      \strng{fullhash}{b1a86ad776e8d03ded7898683473212c}
+      \strng{fullhashraw}{b1a86ad776e8d03ded7898683473212c}
+      \strng{bibnamehash}{b1a86ad776e8d03ded7898683473212c}
+      \strng{authorbibnamehash}{b1a86ad776e8d03ded7898683473212c}
+      \strng{authornamehash}{b1a86ad776e8d03ded7898683473212c}
+      \strng{authorfullhash}{b1a86ad776e8d03ded7898683473212c}
+      \strng{authorfullhashraw}{b1a86ad776e8d03ded7898683473212c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sharpeville: an Apartheid Massacre and its Consequences}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{Makdisi-2017}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6485d697c80718807afd511a1c9c39ca}{%
+           family={Makdisi},
+           familyi={M\bibinitperiod},
+           given={Ussama},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Rice University | Edward P. Djerejian Center for the Middle East}%
+      }
+      \strng{namehash}{6485d697c80718807afd511a1c9c39ca}
+      \strng{fullhash}{6485d697c80718807afd511a1c9c39ca}
+      \strng{fullhashraw}{6485d697c80718807afd511a1c9c39ca}
+      \strng{bibnamehash}{6485d697c80718807afd511a1c9c39ca}
+      \strng{authorbibnamehash}{6485d697c80718807afd511a1c9c39ca}
+      \strng{authornamehash}{6485d697c80718807afd511a1c9c39ca}
+      \strng{authorfullhash}{6485d697c80718807afd511a1c9c39ca}
+      \strng{authorfullhashraw}{6485d697c80718807afd511a1c9c39ca}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.bakerinstitute.org/research/mythology-sectarian-middle-east}
+      \field{month}{2}
+      \field{title}{The Mythology of the Sectarian Middle East}
+      \field{type}{techreport}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{Malhotra-1964}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2d2bae2c867e40c487bc7ab8ceb2186c}{%
+           family={Malhotra},
+           familyi={M\bibinitperiod},
+           given={Ram\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {[Sage Publications, Inc., American Academy of Political}%
+        {Social Science]}%
+      }
+      \strng{namehash}{2d2bae2c867e40c487bc7ab8ceb2186c}
+      \strng{fullhash}{2d2bae2c867e40c487bc7ab8ceb2186c}
+      \strng{fullhashraw}{2d2bae2c867e40c487bc7ab8ceb2186c}
+      \strng{bibnamehash}{2d2bae2c867e40c487bc7ab8ceb2186c}
+      \strng{authorbibnamehash}{2d2bae2c867e40c487bc7ab8ceb2186c}
+      \strng{authornamehash}{2d2bae2c867e40c487bc7ab8ceb2186c}
+      \strng{authorfullhash}{2d2bae2c867e40c487bc7ab8ceb2186c}
+      \strng{authorfullhashraw}{2d2bae2c867e40c487bc7ab8ceb2186c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{The Annals of the American Academy of Political and Social Science}
+      \field{title}{Apartheid and the United Nations}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{354}
+      \field{year}{1964}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{135\bibrangedash 144}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/1035326
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/1035326
+      \endverb
+    \endentry
+    \entry{Masalha-2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9f50c9962c43d0a23d09e6ebd12f4aef}{%
+           family={Masalha},
+           familyi={M\bibinitperiod},
+           given={Nur},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f50c9962c43d0a23d09e6ebd12f4aef}
+      \strng{fullhash}{9f50c9962c43d0a23d09e6ebd12f4aef}
+      \strng{fullhashraw}{9f50c9962c43d0a23d09e6ebd12f4aef}
+      \strng{bibnamehash}{9f50c9962c43d0a23d09e6ebd12f4aef}
+      \strng{authorbibnamehash}{9f50c9962c43d0a23d09e6ebd12f4aef}
+      \strng{authornamehash}{9f50c9962c43d0a23d09e6ebd12f4aef}
+      \strng{authorfullhash}{9f50c9962c43d0a23d09e6ebd12f4aef}
+      \strng{authorfullhashraw}{9f50c9962c43d0a23d09e6ebd12f4aef}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781350221666}
+      \field{title}{Palestine: a four thousand year history}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://doi.org/10.5040/9781350221666?locatt=label:secondary\%5FbloomsburyCollections
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5040/9781350221666?locatt=label:secondary%5C%5FbloomsburyCollections
+      \endverb
+    \endentry
+    \entry{Mills-1997}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80ec3b93898d155de911ac8124738cac}{%
+           family={Mills},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Ithaca, NY}%
+      }
+      \list{publisher}{1}{%
+        {Cornell University Press}%
+      }
+      \strng{namehash}{80ec3b93898d155de911ac8124738cac}
+      \strng{fullhash}{80ec3b93898d155de911ac8124738cac}
+      \strng{fullhashraw}{80ec3b93898d155de911ac8124738cac}
+      \strng{bibnamehash}{80ec3b93898d155de911ac8124738cac}
+      \strng{authorbibnamehash}{80ec3b93898d155de911ac8124738cac}
+      \strng{authornamehash}{80ec3b93898d155de911ac8124738cac}
+      \strng{authorfullhash}{80ec3b93898d155de911ac8124738cac}
+      \strng{authorfullhashraw}{80ec3b93898d155de911ac8124738cac}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Racial Contract}}
+      \field{year}{1997}
+      \true{nocite}
+    \endentry
+    \entry{Najjar-Rodinson-1985}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=58c1755f2173fc7f402e6650f0e24e5f}{%
+           family={Najjar},
+           familyi={N\bibinitperiod},
+           given={Fauzi\bibnamedelima M.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Middle East Studies Association of North America (MESA)}%
+      }
+      \strng{namehash}{58c1755f2173fc7f402e6650f0e24e5f}
+      \strng{fullhash}{58c1755f2173fc7f402e6650f0e24e5f}
+      \strng{fullhashraw}{58c1755f2173fc7f402e6650f0e24e5f}
+      \strng{bibnamehash}{58c1755f2173fc7f402e6650f0e24e5f}
+      \strng{authorbibnamehash}{58c1755f2173fc7f402e6650f0e24e5f}
+      \strng{authornamehash}{58c1755f2173fc7f402e6650f0e24e5f}
+      \strng{authorfullhash}{58c1755f2173fc7f402e6650f0e24e5f}
+      \strng{authorfullhashraw}{58c1755f2173fc7f402e6650f0e24e5f}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{00263184}
+      \field{journaltitle}{Middle East Studies Association Bulletin}
+      \field{number}{1}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{19}
+      \field{year}{1985}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{86\bibrangedash 88}
+      \range{pages}{3}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/23057834
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/23057834
+      \endverb
+    \endentry
+    \entry{Nye-2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc0ad18b2278e2acb0e779098fa6c1cd}{%
+           family={Nye},
+           familyi={N\bibinitperiod},
+           given={Malory},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Leiden, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{cc0ad18b2278e2acb0e779098fa6c1cd}
+      \strng{fullhash}{cc0ad18b2278e2acb0e779098fa6c1cd}
+      \strng{fullhashraw}{cc0ad18b2278e2acb0e779098fa6c1cd}
+      \strng{bibnamehash}{cc0ad18b2278e2acb0e779098fa6c1cd}
+      \strng{authorbibnamehash}{cc0ad18b2278e2acb0e779098fa6c1cd}
+      \strng{authornamehash}{cc0ad18b2278e2acb0e779098fa6c1cd}
+      \strng{authorfullhash}{cc0ad18b2278e2acb0e779098fa6c1cd}
+      \strng{authorfullhashraw}{cc0ad18b2278e2acb0e779098fa6c1cd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Method \& Theory in the Study of Religion}
+      \field{number}{3}
+      \field{title}{Race and Religion: Postcolonial Formations of Power and Whiteness}
+      \field{volume}{31}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{210\bibrangedash 237}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1163/15700682-12341444
+      \endverb
+      \verb{urlraw}
+      \verb https://brill.com/view/journals/mtsr/31/3/article-p210\%5F2.xml
+      \endverb
+      \verb{url}
+      \verb https://brill.com/view/journals/mtsr/31/3/article-p210%5C%5F2.xml
+      \endverb
+    \endentry
+    \entry{Ogunrotifa-2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=02ed10026e8846360bc08b40cedcb5f6}{%
+           family={Ogunrotifa},
+           familyi={O\bibinitperiod},
+           given={Ayodeji\bibnamedelima Bayo},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{02ed10026e8846360bc08b40cedcb5f6}
+      \strng{fullhash}{02ed10026e8846360bc08b40cedcb5f6}
+      \strng{fullhashraw}{02ed10026e8846360bc08b40cedcb5f6}
+      \strng{bibnamehash}{02ed10026e8846360bc08b40cedcb5f6}
+      \strng{authorbibnamehash}{02ed10026e8846360bc08b40cedcb5f6}
+      \strng{authornamehash}{02ed10026e8846360bc08b40cedcb5f6}
+      \strng{authorfullhash}{02ed10026e8846360bc08b40cedcb5f6}
+      \strng{authorfullhashraw}{02ed10026e8846360bc08b40cedcb5f6}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Capital \& Class}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{The class basis of racialisation: The missing link in neo-Marxist analysis of racism}
+      \field{volume}{48}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{3\bibrangedash 21}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1177/03098168221139286
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1177/03098168221139286
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1177/03098168221139286
+      \endverb
+    \endentry
+    \entry{Omi-Winant-1994}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=188bdd209e870f5f149641b6cb146f21}{%
+           family={Omi},
+           familyi={O\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d17583e6f3fdfaca481aa13b9f8ab5c}{%
+           family={Winant},
+           familyi={W\bibinitperiod},
+           given={Howard},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge/Taylor \& Francis Group}%
+      }
+      \strng{namehash}{655997397440752c41d41893a7d4b492}
+      \strng{fullhash}{655997397440752c41d41893a7d4b492}
+      \strng{fullhashraw}{655997397440752c41d41893a7d4b492}
+      \strng{bibnamehash}{655997397440752c41d41893a7d4b492}
+      \strng{authorbibnamehash}{655997397440752c41d41893a7d4b492}
+      \strng{authornamehash}{655997397440752c41d41893a7d4b492}
+      \strng{authorfullhash}{655997397440752c41d41893a7d4b492}
+      \strng{authorfullhashraw}{655997397440752c41d41893a7d4b492}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Second edition}
+      \field{isbn}{9780415520980}
+      \field{title}{Racial formation in the United States}
+      \field{year}{1994}
+      \true{nocite}
+    \endentry
+    \entry{Pateman-2025}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f06c368d0bbcb87ad462aa865e1bff44}{%
+           family={Pateman},
+           familyi={P\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{f06c368d0bbcb87ad462aa865e1bff44}
+      \strng{fullhash}{f06c368d0bbcb87ad462aa865e1bff44}
+      \strng{fullhashraw}{f06c368d0bbcb87ad462aa865e1bff44}
+      \strng{bibnamehash}{f06c368d0bbcb87ad462aa865e1bff44}
+      \strng{authorbibnamehash}{f06c368d0bbcb87ad462aa865e1bff44}
+      \strng{authornamehash}{f06c368d0bbcb87ad462aa865e1bff44}
+      \strng{authorfullhash}{f06c368d0bbcb87ad462aa865e1bff44}
+      \strng{authorfullhashraw}{f06c368d0bbcb87ad462aa865e1bff44}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{2633-674X}
+      \field{journaltitle}{Human Geography}
+      \field{month}{9}
+      \field{title}{Imperialist racism, the highest stage of racism}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1177/19427786251374216
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1177/19427786251374216
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1177/19427786251374216
+      \endverb
+    \endentry
+    \entry{Pinkus-1984}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fa5a60f9315536ec83e428caeba5403e}{%
+           family={Pinkus},
+           familyi={P\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{fa5a60f9315536ec83e428caeba5403e}
+      \strng{fullhash}{fa5a60f9315536ec83e428caeba5403e}
+      \strng{fullhashraw}{fa5a60f9315536ec83e428caeba5403e}
+      \strng{bibnamehash}{fa5a60f9315536ec83e428caeba5403e}
+      \strng{authorbibnamehash}{fa5a60f9315536ec83e428caeba5403e}
+      \strng{authornamehash}{fa5a60f9315536ec83e428caeba5403e}
+      \strng{authorfullhash}{fa5a60f9315536ec83e428caeba5403e}
+      \strng{authorfullhashraw}{fa5a60f9315536ec83e428caeba5403e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Soviet Government and the Jews 1948--1967: A Documented Study}
+      \field{year}{1984}
+      \true{nocite}
+    \endentry
+    \entry{Prior-2005}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fa8a11d432b2e92d498e952c7e146bc7}{%
+           family={Prior},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93cd48e42d8cdf88c21f577241efe704}{%
+           family={Tutu},
+           familyi={T\bibinitperiod},
+           given={Desmond},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95069a5a022314e460276bbcf2f1d48e}{%
+           family={Aruri},
+           familyi={A\bibinitperiod},
+           given={Naseer\bibnamedelima Hasan},
+           giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Interlink Publishing Group Incorporated}%
+      }
+      \strng{namehash}{3350092e7f5377c272192e8a6cb3500e}
+      \strng{fullhash}{3350092e7f5377c272192e8a6cb3500e}
+      \strng{fullhashraw}{3350092e7f5377c272192e8a6cb3500e}
+      \strng{bibnamehash}{3350092e7f5377c272192e8a6cb3500e}
+      \strng{authorbibnamehash}{3350092e7f5377c272192e8a6cb3500e}
+      \strng{authornamehash}{3350092e7f5377c272192e8a6cb3500e}
+      \strng{authorfullhash}{3350092e7f5377c272192e8a6cb3500e}
+      \strng{authorfullhashraw}{3350092e7f5377c272192e8a6cb3500e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Speaking the Truth: Zionism, Israel, and Occupation}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{Qutami-2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=392a0d6dbdf5d6b951313871cedf65a6}{%
+           family={Qutami},
+           familyi={Q\bibinitperiod},
+           given={Loubna},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=efaa8e31e204cae0002826560ae10993}{%
+           family={Zahzah},
+           familyi={Z\bibinitperiod},
+           given={Omar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pluto Journals}%
+      }
+      \strng{namehash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{fullhash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{fullhashraw}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{bibnamehash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{authorbibnamehash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{authornamehash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{authorfullhash}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \strng{authorfullhashraw}{ac0bf9b4dc3906b0d28e34703cc98539}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{02713519, 20436920}
+      \field{journaltitle}{Arab Studies Quarterly}
+      \field{number}{1--2}
+      \field{title}{The War of Words: Language as an Instrument of Palestinian National Struggle}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{42}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{66\bibrangedash 90}
+      \range{pages}{25}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/10.13169/arabstudquar.42.1-2.0066
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/10.13169/arabstudquar.42.1-2.0066
+      \endverb
+    \endentry
+    \entry{HoSang-2012}{book}{}{}
+      \list{location}{1}{%
+        {Berkeley}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780520273436}
+      \field{title}{Racial formation in the twenty-first century}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{Reynolds-2012}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=59d69504828c6e2c5c6a95994c82acac}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=380b37b97c606bed0cfab3979015e71b}{%
+           family={Keane},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3ba746c4f30b931dc153beb0cd2796e8}{%
+           family={McDermott},
+           familyi={M\bibinitperiod},
+           given={Yvonne},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cheltenham, UK}%
+        {Northampton, MA}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{59d69504828c6e2c5c6a95994c82acac}
+      \strng{fullhash}{59d69504828c6e2c5c6a95994c82acac}
+      \strng{fullhashraw}{59d69504828c6e2c5c6a95994c82acac}
+      \strng{bibnamehash}{59d69504828c6e2c5c6a95994c82acac}
+      \strng{authorbibnamehash}{59d69504828c6e2c5c6a95994c82acac}
+      \strng{authornamehash}{59d69504828c6e2c5c6a95994c82acac}
+      \strng{authorfullhash}{59d69504828c6e2c5c6a95994c82acac}
+      \strng{authorfullhashraw}{59d69504828c6e2c5c6a95994c82acac}
+      \strng{editorbibnamehash}{d52709063b73fc32b3e131ad89389da8}
+      \strng{editornamehash}{d52709063b73fc32b3e131ad89389da8}
+      \strng{editorfullhash}{d52709063b73fc32b3e131ad89389da8}
+      \strng{editorfullhashraw}{d52709063b73fc32b3e131ad89389da8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Challenge of Human Rights: Past Present and Future}
+      \field{title}{Third World Approaches to International Law and the Ghosts of Apartheid}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{194\bibrangedash 218}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.4337/9780857939012
+      \endverb
+    \endentry
+    \entry{Rodinson-1973}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=89e0551ac5153daec6c0f07d6f0e7d74}{%
+           family={Rodinson},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Monad Press}%
+      }
+      \strng{namehash}{89e0551ac5153daec6c0f07d6f0e7d74}
+      \strng{fullhash}{89e0551ac5153daec6c0f07d6f0e7d74}
+      \strng{fullhashraw}{89e0551ac5153daec6c0f07d6f0e7d74}
+      \strng{bibnamehash}{89e0551ac5153daec6c0f07d6f0e7d74}
+      \strng{authorbibnamehash}{89e0551ac5153daec6c0f07d6f0e7d74}
+      \strng{authornamehash}{89e0551ac5153daec6c0f07d6f0e7d74}
+      \strng{authorfullhash}{89e0551ac5153daec6c0f07d6f0e7d74}
+      \strng{authorfullhashraw}{89e0551ac5153daec6c0f07d6f0e7d74}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780913460238}
+      \field{series}{A Pathfinder book}
+      \field{title}{Israel: a Colonial-settler State?}
+      \field{year}{1973}
+      \true{nocite}
+    \endentry
+    \entry{Rouhana-2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9408907a578fb05117db1123ec3373c8}{%
+           family={Rouhana},
+           familyi={R\bibinitperiod},
+           given={Nadim\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pluto Journals}%
+      }
+      \strng{namehash}{9408907a578fb05117db1123ec3373c8}
+      \strng{fullhash}{9408907a578fb05117db1123ec3373c8}
+      \strng{fullhashraw}{9408907a578fb05117db1123ec3373c8}
+      \strng{bibnamehash}{9408907a578fb05117db1123ec3373c8}
+      \strng{authorbibnamehash}{9408907a578fb05117db1123ec3373c8}
+      \strng{authornamehash}{9408907a578fb05117db1123ec3373c8}
+      \strng{authorfullhash}{9408907a578fb05117db1123ec3373c8}
+      \strng{authorfullhashraw}{9408907a578fb05117db1123ec3373c8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{2046-6064}
+      \field{journaltitle}{State Crime Journal}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Daring to Imagine: A Future Without Zionism}
+      \field{volume}{12}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.13169/statecrime.12.2.0279
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.13169/statecrime.12.2.0279
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.13169/statecrime.12.2.0279
+      \endverb
+    \endentry
+    \entry{Said-1978b}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=fd9b900d70e932146f45c69f1f5d777d}{%
+           family={Said},
+           familyi={S\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{2}{%
+        {Middle East Research}%
+        {Information Project (MERIP)}%
+      }
+      \strng{namehash}{fd9b900d70e932146f45c69f1f5d777d}
+      \strng{fullhash}{fd9b900d70e932146f45c69f1f5d777d}
+      \strng{fullhashraw}{fd9b900d70e932146f45c69f1f5d777d}
+      \strng{bibnamehash}{fd9b900d70e932146f45c69f1f5d777d}
+      \strng{authorbibnamehash}{fd9b900d70e932146f45c69f1f5d777d}
+      \strng{authornamehash}{fd9b900d70e932146f45c69f1f5d777d}
+      \strng{authorfullhash}{fd9b900d70e932146f45c69f1f5d777d}
+      \strng{authorfullhashraw}{fd9b900d70e932146f45c69f1f5d777d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{00477265}
+      \field{journaltitle}{MERIP Reports}
+      \field{number}{70}
+      \field{title}{The Idea of Palestine in the West}
+      \field{urlday}{2}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{1978}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{3\bibrangedash 11}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/3011576
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/3011576
+      \endverb
+    \endentry
+    \entry{Said-1978a}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=a41ca7a97ad4c8dd51a0d6e647ae828e}{%
+           family={Said},
+           familyi={S\bibinitperiod},
+           given={Edward\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Pantheon Books}%
+      }
+      \strng{namehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{fullhash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{fullhashraw}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{bibnamehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{authorbibnamehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{authornamehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{authorfullhash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{authorfullhashraw}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780394428147}
+      \field{title}{Orientalism}
+      \field{year}{1978}
+    \endentry
+    \entry{Samuels-2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bbfd8cc613855926f5e8f5c7894ebf37}{%
+           family={Samuels},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bbfd8cc613855926f5e8f5c7894ebf37}
+      \strng{fullhash}{bbfd8cc613855926f5e8f5c7894ebf37}
+      \strng{fullhashraw}{bbfd8cc613855926f5e8f5c7894ebf37}
+      \strng{bibnamehash}{bbfd8cc613855926f5e8f5c7894ebf37}
+      \strng{authorbibnamehash}{bbfd8cc613855926f5e8f5c7894ebf37}
+      \strng{authornamehash}{bbfd8cc613855926f5e8f5c7894ebf37}
+      \strng{authorfullhash}{bbfd8cc613855926f5e8f5c7894ebf37}
+      \strng{authorfullhashraw}{bbfd8cc613855926f5e8f5c7894ebf37}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Atlantic}
+      \field{month}{9}
+      \field{title}{{The Atlantic}}
+      \field{year}{2005}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.theatlantic.com/magazine/archive/2005/09/in-a-ruined-country/304167
+      \endverb
+      \verb{url}
+      \verb https://www.theatlantic.com/magazine/archive/2005/09/in-a-ruined-country/304167
+      \endverb
+    \endentry
+    \entry{Satloff-2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ace37cb257cda3f385dac9d7cce12ce2}{%
+           family={Satloff},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wasington Institute}%
+      }
+      \strng{namehash}{ace37cb257cda3f385dac9d7cce12ce2}
+      \strng{fullhash}{ace37cb257cda3f385dac9d7cce12ce2}
+      \strng{fullhashraw}{ace37cb257cda3f385dac9d7cce12ce2}
+      \strng{bibnamehash}{ace37cb257cda3f385dac9d7cce12ce2}
+      \strng{authorbibnamehash}{ace37cb257cda3f385dac9d7cce12ce2}
+      \strng{authornamehash}{ace37cb257cda3f385dac9d7cce12ce2}
+      \strng{authorfullhash}{ace37cb257cda3f385dac9d7cce12ce2}
+      \strng{authorfullhashraw}{ace37cb257cda3f385dac9d7cce12ce2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{A Snapshot of Israel's Deepening Diplomatic Isolation: Comparing Key UNGA Votes, 2017-2025}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.washingtoninstitute.org/policy-analysis/snapshot-israels-deepening-diplomatic-isolation-comparing-key-unga-votes-2017-2025
+      \endverb
+      \verb{url}
+      \verb https://www.washingtoninstitute.org/policy-analysis/snapshot-israels-deepening-diplomatic-isolation-comparing-key-unga-votes-2017-2025
+      \endverb
+    \endentry
+    \entry{Sayegh-1958a}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25eb0c5f8392edae958495841fb09870}{%
+           family={Sayegh},
+           familyi={S\bibinitperiod},
+           given={Fayez},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {The Devin-Adair Company}%
+      }
+      \strng{namehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{fullhash}{25eb0c5f8392edae958495841fb09870}
+      \strng{fullhashraw}{25eb0c5f8392edae958495841fb09870}
+      \strng{bibnamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorbibnamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authornamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorfullhash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorfullhashraw}{25eb0c5f8392edae958495841fb09870}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Arab Unity: Hope and Fulfillment}
+      \field{year}{1958}
+    \endentry
+    \entry{Sayegh-1958b}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25eb0c5f8392edae958495841fb09870}{%
+           family={Sayegh},
+           familyi={S\bibinitperiod},
+           given={Fayez},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Arab Information Center}%
+      }
+      \strng{namehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{fullhash}{25eb0c5f8392edae958495841fb09870}
+      \strng{fullhashraw}{25eb0c5f8392edae958495841fb09870}
+      \strng{bibnamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorbibnamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authornamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorfullhash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorfullhashraw}{25eb0c5f8392edae958495841fb09870}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Communism in Israel}
+      \field{year}{1958}
+      \verb{urlraw}
+      \verb https://archive.org/details/CommunismInIsrael/
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/CommunismInIsrael/
+      \endverb
+    \endentry
+    \entry{Sayegh-1965}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25eb0c5f8392edae958495841fb09870}{%
+           family={Sayegh},
+           familyi={S\bibinitperiod},
+           given={Fayez},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The November 8th Publishing House}%
+      }
+      \strng{namehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{fullhash}{25eb0c5f8392edae958495841fb09870}
+      \strng{fullhashraw}{25eb0c5f8392edae958495841fb09870}
+      \strng{bibnamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorbibnamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authornamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorfullhash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorfullhashraw}{25eb0c5f8392edae958495841fb09870}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{2023 reprint}
+      \field{series}{Palestine Liberation Series}
+      \field{title}{Zionist Colonialism in Palestine}
+      \field{year}{1965}
+      \true{nocite}
+    \endentry
+    \entry{Sayegh-1982}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25eb0c5f8392edae958495841fb09870}{%
+           family={Sayegh},
+           familyi={S\bibinitperiod},
+           given={Fayez},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {The International Organisation for the Elimination of all Forms of Racial Discrimination (EAFORD)}%
+      }
+      \strng{namehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{fullhash}{25eb0c5f8392edae958495841fb09870}
+      \strng{fullhashraw}{25eb0c5f8392edae958495841fb09870}
+      \strng{bibnamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorbibnamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authornamehash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorfullhash}{25eb0c5f8392edae958495841fb09870}
+      \strng{authorfullhashraw}{25eb0c5f8392edae958495841fb09870}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Racism and Racial Discrimination Defined}
+      \field{type}{Paper No. 27}
+      \field{year}{1982}
+      \verb{urlraw}
+      \verb https://www.eaford.org/site/assets/files/1023/racism\%5Fand\%5Fracial\%5Fdiscrimination.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.eaford.org/site/assets/files/1023/racism%5C%5Fand%5C%5Fracial%5C%5Fdiscrimination.pdf
+      \endverb
+    \endentry
+    \entry{Schabas-2023}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd35fd207f89083ce91c7ba5ba5e3580}{%
+           family={Schabas},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{bd35fd207f89083ce91c7ba5ba5e3580}
+      \strng{fullhash}{bd35fd207f89083ce91c7ba5ba5e3580}
+      \strng{fullhashraw}{bd35fd207f89083ce91c7ba5ba5e3580}
+      \strng{bibnamehash}{bd35fd207f89083ce91c7ba5ba5e3580}
+      \strng{authorbibnamehash}{bd35fd207f89083ce91c7ba5ba5e3580}
+      \strng{authornamehash}{bd35fd207f89083ce91c7ba5ba5e3580}
+      \strng{authorfullhash}{bd35fd207f89083ce91c7ba5ba5e3580}
+      \strng{authorfullhashraw}{bd35fd207f89083ce91c7ba5ba5e3580}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{09}
+      \field{title}{The International Legal Order's Colour Line: Racism, Racial Discrimination, and the Making of International Law}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{Schwelb-1966}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2401a257d791c8c32985f16f3cd29601}{%
+           family={Schwelb},
+           familyi={S\bibinitperiod},
+           given={Egon},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2401a257d791c8c32985f16f3cd29601}
+      \strng{fullhash}{2401a257d791c8c32985f16f3cd29601}
+      \strng{fullhashraw}{2401a257d791c8c32985f16f3cd29601}
+      \strng{bibnamehash}{2401a257d791c8c32985f16f3cd29601}
+      \strng{authorbibnamehash}{2401a257d791c8c32985f16f3cd29601}
+      \strng{authornamehash}{2401a257d791c8c32985f16f3cd29601}
+      \strng{authorfullhash}{2401a257d791c8c32985f16f3cd29601}
+      \strng{authorfullhashraw}{2401a257d791c8c32985f16f3cd29601}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{International and Comparative Law Quarterly}
+      \field{number}{3}
+      \field{title}{The International Convention on the Elimination of all Forms of Racial discrimination}
+      \field{volume}{15}
+      \field{year}{1966}
+      \true{nocite}
+      \field{pages}{996\bibrangedash 1086}
+      \range{pages}{91}
+      \verb{doi}
+      \verb 10.1093/iclqaj/15.4.996
+      \endverb
+    \endentry
+    \entry{Sesardic-2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1f8e7db33c4c3af292ad3087b8b75d1}{%
+           family={Sesardic},
+           familyi={S\bibinitperiod},
+           given={Neven},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{e1f8e7db33c4c3af292ad3087b8b75d1}
+      \strng{fullhash}{e1f8e7db33c4c3af292ad3087b8b75d1}
+      \strng{fullhashraw}{e1f8e7db33c4c3af292ad3087b8b75d1}
+      \strng{bibnamehash}{e1f8e7db33c4c3af292ad3087b8b75d1}
+      \strng{authorbibnamehash}{e1f8e7db33c4c3af292ad3087b8b75d1}
+      \strng{authornamehash}{e1f8e7db33c4c3af292ad3087b8b75d1}
+      \strng{authorfullhash}{e1f8e7db33c4c3af292ad3087b8b75d1}
+      \strng{authorfullhashraw}{e1f8e7db33c4c3af292ad3087b8b75d1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{1572-8404}
+      \field{journaltitle}{Biology \& Philosophy}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{Race: a social destruction of a biological concept}
+      \field{volume}{25}
+      \field{year}{2010}
+      \true{nocite}
+      \field{pages}{143\bibrangedash 162}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1007/s10539-009-9193-7
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/s10539-009-9193-7
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s10539-009-9193-7
+      \endverb
+    \endentry
+    \entry{Shafi-2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=60fc45507196d4808707947a8e360234}{%
+           family={Shafi},
+           familyi={S\bibinitperiod},
+           given={Salah\bibnamedelima Abdel},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {EuroMeSCo Secretariat at the IEE}%
+      }
+      \strng{namehash}{60fc45507196d4808707947a8e360234}
+      \strng{fullhash}{60fc45507196d4808707947a8e360234}
+      \strng{fullhashraw}{60fc45507196d4808707947a8e360234}
+      \strng{bibnamehash}{60fc45507196d4808707947a8e360234}
+      \strng{authorbibnamehash}{60fc45507196d4808707947a8e360234}
+      \strng{authornamehash}{60fc45507196d4808707947a8e360234}
+      \strng{authorfullhash}{60fc45507196d4808707947a8e360234}
+      \strng{authorfullhashraw}{60fc45507196d4808707947a8e360234}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{month}{7}
+      \field{title}{Civil Society and Political Elites in Palestine and the Role of International Donors: A Palestinian View}
+      \field{year}{2004}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.euromesco.net/wp-content/uploads/2017/10/200407-EuroMeSCo-Paper-1.33.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.euromesco.net/wp-content/uploads/2017/10/200407-EuroMeSCo-Paper-1.33.pdf
+      \endverb
+    \endentry
+    \entry{Singh-1998}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc9353fb54ab212e585813f33b6fa995}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Nikhil\bibnamedelima Pal},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins University Press}%
+      }
+      \strng{namehash}{dc9353fb54ab212e585813f33b6fa995}
+      \strng{fullhash}{dc9353fb54ab212e585813f33b6fa995}
+      \strng{fullhashraw}{dc9353fb54ab212e585813f33b6fa995}
+      \strng{bibnamehash}{dc9353fb54ab212e585813f33b6fa995}
+      \strng{authorbibnamehash}{dc9353fb54ab212e585813f33b6fa995}
+      \strng{authornamehash}{dc9353fb54ab212e585813f33b6fa995}
+      \strng{authorfullhash}{dc9353fb54ab212e585813f33b6fa995}
+      \strng{authorfullhashraw}{dc9353fb54ab212e585813f33b6fa995}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{00030678, 10806490}
+      \field{journaltitle}{American Quarterly}
+      \field{number}{3}
+      \field{title}{Culture/Wars: Recoding Empire in an Age of Democracy}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{50}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{471\bibrangedash 522}
+      \range{pages}{52}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/30042149
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/30042149
+      \endverb
+    \endentry
+    \entry{Sirleaf-2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=044fa6adcec3515e11cdb171fbc3108f}{%
+           family={Sirleaf},
+           familyi={S\bibinitperiod},
+           given={Matiangai\bibnamedelimb V.\bibnamedelimi S},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press (OUP)}%
+      }
+      \strng{namehash}{044fa6adcec3515e11cdb171fbc3108f}
+      \strng{fullhash}{044fa6adcec3515e11cdb171fbc3108f}
+      \strng{fullhashraw}{044fa6adcec3515e11cdb171fbc3108f}
+      \strng{bibnamehash}{044fa6adcec3515e11cdb171fbc3108f}
+      \strng{authorbibnamehash}{044fa6adcec3515e11cdb171fbc3108f}
+      \strng{authornamehash}{044fa6adcec3515e11cdb171fbc3108f}
+      \strng{authorfullhash}{044fa6adcec3515e11cdb171fbc3108f}
+      \strng{authorfullhashraw}{044fa6adcec3515e11cdb171fbc3108f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{1752-7724}
+      \field{journaltitle}{The International Journal of Transitional Justice}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Palestine as a Litmus Test for Transitional Justice}
+      \field{volume}{18}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{162\bibrangedash 188}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1093/ijtj/ijae012
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1093/ijtj/ijae012
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1093/ijtj/ijae012
+      \endverb
+    \endentry
+    \entry{Strawson-2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f8dacdcb54dd198e509c8c0749227a9}{%
+           family={Strawson},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Indiana University Press}%
+      }
+      \strng{namehash}{3f8dacdcb54dd198e509c8c0749227a9}
+      \strng{fullhash}{3f8dacdcb54dd198e509c8c0749227a9}
+      \strng{fullhashraw}{3f8dacdcb54dd198e509c8c0749227a9}
+      \strng{bibnamehash}{3f8dacdcb54dd198e509c8c0749227a9}
+      \strng{authorbibnamehash}{3f8dacdcb54dd198e509c8c0749227a9}
+      \strng{authornamehash}{3f8dacdcb54dd198e509c8c0749227a9}
+      \strng{authorfullhash}{3f8dacdcb54dd198e509c8c0749227a9}
+      \strng{authorfullhashraw}{3f8dacdcb54dd198e509c8c0749227a9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{10849513, 1527201X}
+      \field{journaltitle}{Israel Studies}
+      \field{number}{2}
+      \field{title}{Colonialism}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{24}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{33\bibrangedash 44}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/10.2979/israelstudies.24.2.03
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/10.2979/israelstudies.24.2.03
+      \endverb
+    \endentry
+    \entry{Tabarovsky-2017}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04fc7ba2405a2109bdad6ae50b1655d2}{%
+           family={Tabarovsky},
+           familyi={T\bibinitperiod},
+           given={Izabella},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{04fc7ba2405a2109bdad6ae50b1655d2}
+      \strng{fullhash}{04fc7ba2405a2109bdad6ae50b1655d2}
+      \strng{fullhashraw}{04fc7ba2405a2109bdad6ae50b1655d2}
+      \strng{bibnamehash}{04fc7ba2405a2109bdad6ae50b1655d2}
+      \strng{authorbibnamehash}{04fc7ba2405a2109bdad6ae50b1655d2}
+      \strng{authornamehash}{04fc7ba2405a2109bdad6ae50b1655d2}
+      \strng{authorfullhash}{04fc7ba2405a2109bdad6ae50b1655d2}
+      \strng{authorfullhashraw}{04fc7ba2405a2109bdad6ae50b1655d2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Fathom}
+      \field{month}{05}
+      \field{title}{{Soviet Anti-Zionism and Contemporary Left Antisemitism}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://fathomjournal.org/soviet-anti-zionism-and-contemporary-left-antisemitism
+      \endverb
+      \verb{url}
+      \verb https://fathomjournal.org/soviet-anti-zionism-and-contemporary-left-antisemitism
+      \endverb
+    \endentry
+    \entry{Thornberry-1991}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1e18b5399b7e2d1f8de6b874d278b1c}{%
+           family={Thornberry},
+           familyi={T\bibinitperiod},
+           given={Patrck},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a1e18b5399b7e2d1f8de6b874d278b1c}
+      \strng{fullhash}{a1e18b5399b7e2d1f8de6b874d278b1c}
+      \strng{fullhashraw}{a1e18b5399b7e2d1f8de6b874d278b1c}
+      \strng{bibnamehash}{a1e18b5399b7e2d1f8de6b874d278b1c}
+      \strng{authorbibnamehash}{a1e18b5399b7e2d1f8de6b874d278b1c}
+      \strng{authornamehash}{a1e18b5399b7e2d1f8de6b874d278b1c}
+      \strng{authorfullhash}{a1e18b5399b7e2d1f8de6b874d278b1c}
+      \strng{authorfullhashraw}{a1e18b5399b7e2d1f8de6b874d278b1c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{International Law and the Rights of Minorities}
+      \field{year}{1991}
+      \true{nocite}
+    \endentry
+    \entry{Eghbariah-2024}{article}{}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{journaltitle}
+      \field{journaltitle}{Columbia Law Review}
+      \field{month}{5}
+      \field{title}{Toward Nakba as Legal Concept}
+      \field{volume}{12}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{887\bibrangedash 991}
+      \range{pages}{105}
+      \verb{urlraw}
+      \verb https://columbialawreview.org/content/toward-nakba-as-a-legal-concept
+      \endverb
+      \verb{url}
+      \verb https://columbialawreview.org/content/toward-nakba-as-a-legal-concept
+      \endverb
+    \endentry
+    \entry{Vicenews-2021}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17a3fba53be0bb199c27d25009c83641}{%
+           family={{VICE News}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Youtube}%
+      }
+      \strng{namehash}{17a3fba53be0bb199c27d25009c83641}
+      \strng{fullhash}{17a3fba53be0bb199c27d25009c83641}
+      \strng{fullhashraw}{17a3fba53be0bb199c27d25009c83641}
+      \strng{bibnamehash}{17a3fba53be0bb199c27d25009c83641}
+      \strng{authorbibnamehash}{17a3fba53be0bb199c27d25009c83641}
+      \strng{authornamehash}{17a3fba53be0bb199c27d25009c83641}
+      \strng{authorfullhash}{17a3fba53be0bb199c27d25009c83641}
+      \strng{authorfullhashraw}{17a3fba53be0bb199c27d25009c83641}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{{Life Inside Gaza After Nearly 2 Weeks of Bombings}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=12khZa6d\%5F0I\&t=2s
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=12khZa6d%5C%5F0I%5C&t=2s
+      \endverb
+    \endentry
+    \entry{Wedgewood-2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b69b1345d9335e7cf23ce044a2c40c77}{%
+           family={Wedgwood},
+           familyi={W\bibinitperiod},
+           given={Ruth},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications, Inc.}%
+      }
+      \strng{namehash}{b69b1345d9335e7cf23ce044a2c40c77}
+      \strng{fullhash}{b69b1345d9335e7cf23ce044a2c40c77}
+      \strng{fullhashraw}{b69b1345d9335e7cf23ce044a2c40c77}
+      \strng{bibnamehash}{b69b1345d9335e7cf23ce044a2c40c77}
+      \strng{authorbibnamehash}{b69b1345d9335e7cf23ce044a2c40c77}
+      \strng{authornamehash}{b69b1345d9335e7cf23ce044a2c40c77}
+      \strng{authorfullhash}{b69b1345d9335e7cf23ce044a2c40c77}
+      \strng{authorfullhashraw}{b69b1345d9335e7cf23ce044a2c40c77}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{00438200}
+      \field{journaltitle}{World Affairs}
+      \field{number}{4}
+      \field{title}{ZIONISM AND RACISM, AGAIN: Durban II}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{171}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{84\bibrangedash 88}
+      \range{pages}{5}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/20671413
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/20671413
+      \endverb
+    \endentry
+    \entry{Weiss-2018}{book}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e8d9b3ac25882f33b6ab458d5d1d399b}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={Thomas\bibnamedelima G.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff861eb0ebdd737e0cad15d182793237}{%
+           family={Forsythe},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=993827933ce4987bbf00dae944cee881}{%
+           family={Pease},
+           familyi={P\bibinitperiod},
+           given={Kelly-Kate\bibnamedelima S.},
+           giveni={K\bibinithyphendelim K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge, Taylor Francis Group}%
+      }
+      \strng{namehash}{2ac205764335879d0176accb39867b8c}
+      \strng{fullhash}{2ac205764335879d0176accb39867b8c}
+      \strng{fullhashraw}{2ac205764335879d0176accb39867b8c}
+      \strng{bibnamehash}{2ac205764335879d0176accb39867b8c}
+      \strng{authorbibnamehash}{2ac205764335879d0176accb39867b8c}
+      \strng{authornamehash}{2ac205764335879d0176accb39867b8c}
+      \strng{authorfullhash}{2ac205764335879d0176accb39867b8c}
+      \strng{authorfullhashraw}{2ac205764335879d0176accb39867b8c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Eighth edition}
+      \field{title}{The United Nations and Changing World Politics}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{Weissbrodt-1986}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=373a85bfd9ad93c0951f0bde8905b7b1}{%
+           family={Weissbrodt},
+           familyi={W\bibinitperiod},
+           given={Georgina},
+           giveni={G\bibinitperiod},
+           givenun=0,
+           suffix={David\bibnamedelimb \&\bibnamedelima Mahoney},
+           suffixi={D\bibinitperiod\bibinitdelim \\bibinitperiod\bibinitdelim M\bibinitperiod},
+           suffixun=0}}%
+      }
+      \strng{namehash}{373a85bfd9ad93c0951f0bde8905b7b1}
+      \strng{fullhash}{373a85bfd9ad93c0951f0bde8905b7b1}
+      \strng{fullhashraw}{373a85bfd9ad93c0951f0bde8905b7b1}
+      \strng{bibnamehash}{373a85bfd9ad93c0951f0bde8905b7b1}
+      \strng{authorbibnamehash}{373a85bfd9ad93c0951f0bde8905b7b1}
+      \strng{authornamehash}{373a85bfd9ad93c0951f0bde8905b7b1}
+      \strng{authorfullhash}{373a85bfd9ad93c0951f0bde8905b7b1}
+      \strng{authorfullhashraw}{373a85bfd9ad93c0951f0bde8905b7b1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Minnesota Journal of Law \& Inequality}
+      \field{number}{3}
+      \field{title}{International Legal Action Against Apartheid}
+      \field{volume}{4}
+      \field{year}{1986}
+      \true{nocite}
+      \field{pages}{485\bibrangedash 508}
+      \range{pages}{24}
+      \verb{urlraw}
+      \verb https://scholarship.law.umn.edu/faculty\%5Farticles/361
+      \endverb
+      \verb{url}
+      \verb https://scholarship.law.umn.edu/faculty%5C%5Farticles/361
+      \endverb
+    \endentry
+    \entry{Westad-2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b7304a90db4f1a75089e19a684976d25}{%
+           family={Westad},
+           familyi={W\bibinitperiod},
+           given={Odd\bibnamedelima Arne},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b7304a90db4f1a75089e19a684976d25}
+      \strng{fullhash}{b7304a90db4f1a75089e19a684976d25}
+      \strng{fullhashraw}{b7304a90db4f1a75089e19a684976d25}
+      \strng{bibnamehash}{b7304a90db4f1a75089e19a684976d25}
+      \strng{authorbibnamehash}{b7304a90db4f1a75089e19a684976d25}
+      \strng{authornamehash}{b7304a90db4f1a75089e19a684976d25}
+      \strng{authorfullhash}{b7304a90db4f1a75089e19a684976d25}
+      \strng{authorfullhashraw}{b7304a90db4f1a75089e19a684976d25}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{12th printing}
+      \field{isbn}{9780521703147}
+      \field{title}{The global Cold War: Third World interventions and the making of our times}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{Williams-2024}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a62b18f3f8c7186f586eef35582fd58a}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Johnny\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=770c6ad9d8b9dc53bc59f0f989cf3863}{%
+           family={Embrick},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4af289a0f3486c108b6ec1b707dc20f}{%
+           family={Elgoharry},
+           familyi={E\bibinitperiod},
+           given={Yasmin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ec769af74845b7c45cf358e72e1a49a}
+      \strng{fullhash}{3ec769af74845b7c45cf358e72e1a49a}
+      \strng{fullhashraw}{3ec769af74845b7c45cf358e72e1a49a}
+      \strng{bibnamehash}{3ec769af74845b7c45cf358e72e1a49a}
+      \strng{authorbibnamehash}{3ec769af74845b7c45cf358e72e1a49a}
+      \strng{authornamehash}{3ec769af74845b7c45cf358e72e1a49a}
+      \strng{authorfullhash}{3ec769af74845b7c45cf358e72e1a49a}
+      \strng{authorfullhashraw}{3ec769af74845b7c45cf358e72e1a49a}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{2054-1996}
+      \field{journaltitle}{Journal of Holy Land and Palestine Studies}
+      \field{month}{10}
+      \field{number}{2}
+      \field{title}{Apartheid in the Twenty-first Century: Racial Capitalism and the Struggles in Palestine}
+      \field{volume}{23}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{239\bibrangedash 255}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.3366/hlps.2024.0341
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.3366/hlps.2024.0341
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.3366/hlps.2024.0341
+      \endverb
+    \endentry
+    \entry{Zwiep-2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a7bb710fe9f210dddb6ccf41749280b7}{%
+           family={Zwiep},
+           familyi={Z\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Ghent University}%
+      }
+      \strng{namehash}{a7bb710fe9f210dddb6ccf41749280b7}
+      \strng{fullhash}{a7bb710fe9f210dddb6ccf41749280b7}
+      \strng{fullhashraw}{a7bb710fe9f210dddb6ccf41749280b7}
+      \strng{bibnamehash}{a7bb710fe9f210dddb6ccf41749280b7}
+      \strng{authorbibnamehash}{a7bb710fe9f210dddb6ccf41749280b7}
+      \strng{authornamehash}{a7bb710fe9f210dddb6ccf41749280b7}
+      \strng{authorfullhash}{a7bb710fe9f210dddb6ccf41749280b7}
+      \strng{authorfullhashraw}{a7bb710fe9f210dddb6ccf41749280b7}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{2593-743X}
+      \field{journaltitle}{Journal of Latin Cosmopolitanism and European Literatures}
+      \field{number}{7}
+      \field{title}{Writing in a World of Strangers: The Invention of Jewish Literature Revisited}
+      \field{volume}{0}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.21825/jolcel.84828
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.21825/jolcel.84828
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.21825/jolcel.84828
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

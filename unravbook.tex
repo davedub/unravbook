@@ -8,34 +8,47 @@
     index=totoc   % Adds Index to TOC
 ]{scrbook}
 
+
+\PassOptionsToPackage{pdftex}{geometry}
+\usepackage[margin=1in, includeheadfoot]{geometry}
+
+
 % --- Language and Fonts ---
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[english]{babel}
 
-% \usepackage{lmodern}
-% use instead of lmodern to avoid font shape warnings
-\usepackage{cfr-lm} 
+% 1A Load Latin Modern fonts
+
+\usepackage{lmodern}
+\renewcommand{\familydefault}{\sfdefault}
+\addtokomafont{disposition}{\sffamily}
+
+% Won't work because using enotez (see fix in the subfiles)
+% 1B - make footnote text smaller
+% % Reduce footnote text size (e.g., to \small or \footnotesize)
+% \addtokomafont{endnote}{\small}
+
+% 2. Set the default document family to Sans-Serif
+\renewcommand{\familydefault}{\sfdefault}
+
+% 3. Force KOMA-Script structural elements to follow the sans-serif family
+\addtokomafont{disposition}{\sffamily}
 
 % TOC format and entry customization
 \usepackage[titles]{tocloft}
-
-% load hyperref AFTER tocloft package (per AI)
-% Load hyperref BEFORE biblatex (per AI)
-\usepackage[hidelinks]{hyperref}
 
 
 \usepackage{eso-pic,graphicx}
   \newcommand\DraftPDF{
       \put(0,0){
           \parbox[b][\paperheight]{\paperwidth}{%
-          \vfill
-          \centering
-          \includegraphics[width=\paperwidth,
-          height=\paperheight]{draft-ai-70.pdf}
-\vfill
-}
-}
+             \vfill
+              \centering
+                \includegraphics[width=\paperwidth, height=\paperheight]{cover-image-3b.png}
+            \vfill
+          }
+      }
 }
 
 \usepackage[pages=some]{background} % Controlled background placement
@@ -46,10 +59,8 @@
     color=black,
     opacity=1,
     angle=0,
-    contents={\includegraphics[width=\paperwidth,height=\paperheight]{cover-image-3b.jpg}}
+    contents={\includegraphics[width=\paperwidth,height=\paperheight]{cover-image-3b.png}}
 }
-
-
 
 % --- Bibliography Setup ---
 \usepackage[
@@ -60,13 +71,18 @@
 ]{biblatex-chicago}
 
 % add bib files for each chapter
-\addbibresource{bibfiles/ch-01.bib} 
-\addbibresource{bibfiles/ch-02.bib} 
+\addbibresource{bibfiles/all-cites.bib} 
 
 \AtBeginDocument{%
   \DeclareDelimFormat{nameyeardelim}{\addcomma\space}%
   \DeclareDelimFormat{postnotedelim}{\addcomma\space}%
 }
+
+
+% load hyperref AFTER tocloft package (per AI)
+% Load hyperref AFTER biblatex (per AI)
+\usepackage[hidelinks]{hyperref}
+
 
 % set spacing between paragraphs with "parskip"
 \setlength{\parskip}{0.5cm}
@@ -92,17 +108,13 @@
 \usepackage{csquotes}
 
 
-% use graphicx package to adapt to MacTeX 2026
-% \usepackage[dvipdfmx]{graphicx}
-% don't use this after all \usepackage{bmpsize}
-
 % for \adjustwidth for quoted excerpts
 \usepackage{changepage}
 \usepackage{url}
 \tolerance=9000
 \usepackage{xurl}
 \renewcommand{\footnotesize}{\fontsize{8pt}{10pt}\selectfont}
-\usepackage[margin=1in, includeheadfoot]{geometry}
+
 
 \usepackage{afterpage} % use only for preface
 
@@ -126,9 +138,6 @@
 \clearpairofpagestyles      
 \ohead{\headmark}           
 \cfoot{\pagemark}           
-
-% Customize chapter titles
-% \usepackage{titlesec}
 
 % change default name of TOC "Contents" to "Table of Contents"
 \renewcommand{\contentsname}{\hfill\large\textsc{Table of Contents}\hfill}
@@ -189,9 +198,9 @@
 
     \centering
     \vspace*{3.2cm}
-    {\Large\bfseries\color{white} UN-Raveling the Jewish State\\
+    {\Large\bfseries\color{white} \normalfont\textsc{UN-Raveling the Jewish State}\\
     \vspace*{.4cm}
-        \small{\textit{How the UN General Assembly's long encounter with South African apartheid led to its \enquote{racialization} of Palestine\\}
+        \small{\normalfont\textsc{How the UN General Assembly's long encounter with South African apartheid led to its \enquote{racialization} of Palestine\\}
         \par}
     \vspace{2.2cm}
     {\Large\color{black} David Witus\par}
@@ -220,6 +229,14 @@
 
 % Internationalized
 \subfile{./chapt/ch-02.tex} 
+
+% ==================== CHAPTER 4 ====================
+
+% Dehumanized
+\subfile{./chapt/ch-04.tex} 
+
+
+
 
 
 % ==================== BACK MATTER ====================
