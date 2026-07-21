@@ -1,0 +1,271 @@
+\documentclass[
+    paper=6in:9in,
+    BCOR=10mm,
+    twoside=true,
+    fontsize=10pt,
+    DIV=calc,
+    bibliography=totoc, % Adds main bibliography to TOC
+    index=totoc   % Adds Index to TOC
+]{scrbook}
+
+% --- Language and Fonts ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+
+% \usepackage{lmodern}
+% use instead of lmodern to avoid font shape warnings
+\usepackage{cfr-lm} 
+
+% TOC format and entry customization
+\usepackage[titles]{tocloft}
+
+% load hyperref AFTER tocloft package (per AI)
+% Load hyperref BEFORE biblatex (per AI)
+\usepackage[hidelinks]{hyperref}
+
+
+\usepackage{eso-pic,graphicx}
+  \newcommand\DraftPDF{
+      \put(0,0){
+          \parbox[b][\paperheight]{\paperwidth}{%
+          \vfill
+          \centering
+          \includegraphics[width=\paperwidth,
+          height=\paperheight]{draft-ai-70.pdf}
+\vfill
+}
+}
+}
+
+\usepackage[pages=some]{background} % Controlled background placement
+
+% Configure the background image
+\backgroundsetup{
+    scale=1,
+    color=black,
+    opacity=1,
+    angle=0,
+    contents={\includegraphics[width=\paperwidth,height=\paperheight]{cover-image-3b.jpg}}
+}
+
+
+
+% --- Bibliography Setup ---
+\usepackage[
+    authordate,          % Change to authoryear or apa if preferred
+    backend=biber,          % Modern engine required for refsections
+    sorting=nyt,
+    refsection=chapter      % Automates chapter-isolated bibliography tracking
+]{biblatex-chicago}
+
+% add bib files for each chapter
+\addbibresource{bibfiles/ch-01.bib} 
+\addbibresource{bibfiles/ch-02.bib} 
+
+\AtBeginDocument{%
+  \DeclareDelimFormat{nameyeardelim}{\addcomma\space}%
+  \DeclareDelimFormat{postnotedelim}{\addcomma\space}%
+}
+
+% set spacing between paragraphs with "parskip"
+\setlength{\parskip}{0.5cm}
+
+% for enotez, use \printendnotes, not \theendnotes
+\usepackage{enotez}
+\let\footnote=\endnote
+
+% Define enotez-list template
+\DeclareInstance{enotez-list}{paragraph}{paragraph}
+  {
+    % Format = \normalfont\relax, 
+    format = \normalfont\renewcommand{\UrlFont}{\fontfamily{zi4}\selectfont}, 
+    number = \textsuperscript{#1}, 
+    heading = \section*{#1}
+  }
+
+% --- additional packages ---
+
+\usepackage{textcomp}
+\usepackage{setspace}
+\usepackage{hyphenat}
+\usepackage{csquotes}
+
+
+% use graphicx package to adapt to MacTeX 2026
+% \usepackage[dvipdfmx]{graphicx}
+% don't use this after all \usepackage{bmpsize}
+
+% for \adjustwidth for quoted excerpts
+\usepackage{changepage}
+\usepackage{url}
+\tolerance=9000
+\usepackage{xurl}
+\renewcommand{\footnotesize}{\fontsize{8pt}{10pt}\selectfont}
+\usepackage[margin=1in, includeheadfoot]{geometry}
+
+\usepackage{afterpage} % use only for preface
+
+% use subfiles for each chapter
+\usepackage{subfiles} 
+
+% Disable automatic upper casing of chapter titles in headers
+\renewcommand{\MakeUppercase}[1]{#1}
+
+% Chapter Setup ---
+% Configures footnotes to print as endnotes sorted by chapter
+
+% \renewcommand{\notesname}{\thechapter}
+
+% --- Index Setup ---
+\usepackage{indextools}
+\makeindex                  % Initializes index generation
+
+% --- Headers and Footers ---
+\usepackage[automark]{scrlayer-scrpage}
+\clearpairofpagestyles      
+\ohead{\headmark}           
+\cfoot{\pagemark}           
+
+% Customize chapter titles
+% \usepackage{titlesec}
+
+% change default name of TOC "Contents" to "Table of Contents"
+\renewcommand{\contentsname}{\hfill\large\textsc{Table of Contents}\hfill}
+
+% Add dotted leaders for chapters
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+% Add space before each chapter TOC entry
+\setlength{\cftbeforechapskip}{10pt}  % Adjust this value as needed
+
+% Add dot to chapter number in ToC
+\renewcommand{\cftchapnumwidth}{2.5em} % Adjust width as needed
+
+% Large small caps for chapter titles
+\renewcommand{\cftchapfont}{\normalsize\scshape}
+
+% Large font for page numbers
+\renewcommand{\cftchappagefont}{\normalsize}
+
+% Add dot to chapter number in heading
+\renewcommand{\thechapter}{\arabic{chapter}.}
+
+% Add space before BIB sections
+\setlength{\cftbeforesubsecskip}{10pt}  % subsections Articles and Books
+
+% restart footnote numbering after each chapter
+\usepackage{chngcntr}
+\counterwithin*{footnote}{chapter}
+
+% --- Footnotes End of Chapter Setup ---
+% Configures footnotes to print as endnotes sorted by chapter
+% NOTE: enotez (loaded above) is already our endnotes engine — do NOT also
+% load the old `endnotes` package here. It redefines \endnote and re-hijacks
+% \footnote, which silently disconnects \footnote from enotez's note list,
+% so \printendnotes has nothing to print. \notesname is our own heading
+% macro (not provided by enotez), so it must be \newcommand, not \renewcommand.
+\newcommand{\notesname}{Notes to Chapter \thechapter}
+
+% --- Custom Command for Chapter Endings ---
+% Automates printing footnotes and references before the next chapter begins
+\newcommand{\printchapterend}{%
+    \addsec*{\notesname}    % Prints footnotes under an unnumbered sub-heading
+    \printendnotes            % Spits out the footnotes for this chapter
+    \clearpage              % Empties footnote storage for the next chapter
+    \printbibliography[heading=subbibliography, title={References}]
+}
+
+\widowpenalty10000
+\clubpenalty10000
+
+
+\begin{document}
+
+\begin{titlepage}
+
+    \BgThispage % Turns on the background image for this page only (pages=some requires this)
+    % Manual title text overlay since \maketitle clears the background    % Manual title text overlay since \maketitle clears the background
+
+    \centering
+    \vspace*{3.2cm}
+    {\Large\bfseries\color{white} UN-Raveling the Jewish State\\
+    \vspace*{.4cm}
+        \small{\textit{How the UN General Assembly's long encounter with South African apartheid led to its \enquote{racialization} of Palestine\\}
+        \par}
+    \vspace{2.2cm}
+    {\Large\color{black} David Witus\par}
+    }
+    
+\vfill % Pushes content up
+
+\end{titlepage}
+
+
+\thispagestyle{empty}
+
+\frontmatter
+\tableofcontents
+
+\mainmatter
+
+
+% ==================== CHAPTER 1 ====================
+
+% Ch 1 Reconceptualized
+\subfile{./chapt/ch-01.tex} 
+
+
+% ==================== CHAPTER 2 ====================
+
+% Internationalized
+\subfile{./chapt/ch-02.tex} 
+
+
+% ==================== BACK MATTER ====================
+
+\backmatter
+
+\cleardoublepage
+
+ % Make section TOC entries consistent
+\renewcommand{\cftsecpagefont}{\normalfont}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
+\begin{adjustwidth}{.65cm}{.5cm}
+  \begin{center}
+    \Large\bfseries{\vspace{.5em}Bibliography}
+  \end{center}
+\end{adjustwidth}
+
+\phantomsection
+\makeatletter
+\addtocontents{toc}{%
+  \protect\contentsline{chapter}{\hspace{0em}Bibliography\\}{}{}%
+}
+% Adjust vertical spacing after "Bibliography" entry
+\addtocontents{toc}{\protect\vspace{-5pt}} \makeatother
+
+\markboth{Bibliography}{Bibliography}  % Sets header for section
+\hypersetup{bookmarksdepth=-1}
+
+\setstretch{1.05}
+
+\nocite{*}
+
+\printbibliography[
+  heading=subbibintoc,
+  type=article,
+  title={\vspace{.5em}Articles}\vspace{.25em},
+  notkeyword=exclude
+]
+
+\setstretch{1.05} % Resets line spacing within entries (optional)
+\vspace{1cm}
+\printbibliography[
+  heading=subbibintoc,
+  type=book, 
+  title={Books},
+  notkeyword=exclude
+]
+\end{document}

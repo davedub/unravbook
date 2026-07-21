@@ -1,0 +1,36 @@
+%!TeX root = subfile
+\documentclass[./unravbook.tex]{subfiles}
+
+\usepackage{parskip}
+\setlength{\parskip}{10pt}
+\setstretch{1.15}
+
+\setenotez{
+  list-heading = {\chapter*{#1}\markboth{#1}{#1}}
+}
+
+\begin{document}
+
+\setcounter{chapter}{1}
+\setcounter{endnote}{0}
+
+\chapter{Internationalized} %% {{{
+    %% end header ----------------------------
+    
+
+This is the first citation in chapter 2 \parencite[33]{Arendt-1944} and we will see if it works. 
+
+Regardless, this outcome has presented jihadist MENA state and non-state actors with an opportunity to expand their doctrine of ``perpetual resistance'' into the social activism throughout Western Europe and North America.\footnote{Ramzy Baroud, \enquote{Armed Vs. Peaceful Resistance --- What You Need to Know about Muqawama in Gaza,} June 25, 2024, Counterpunch. \url{https://www.counterpunch.org/2024/06/25/armed-vs-peaceful-resistance-what-you-need-to-know-about-muqawama-in-gaza/}.} They were never shy before about heaping Israel with scorn and shame in the MENA region but now, neither were those supporting them in those wider geographies. A sophisticated follow-up campaign to discredit Israel's international standing quickly engulfed Western milieus.\footnote{E.g., Brett Stephens, The Year American Jews Woke Up, Oct. 4, 2024. New York Times. \url{https://www.nytimes.com/2024/10/04/opinion/israel-jews-antisemitism.html}.} Its much higher tempo after October 7, particularly on college campuses and in youth-oriented media, naturally generated considerable alarm.\footnote{See, e.g., the theatrical motion picture \textit{October 8}. \enquote{October 8} | Official Website, March 14, 2025. \url{https://www.october8film.com/}.}  While silent about the recent atrocities committed by Israel's enemies, the incessant fomenting of outrage toward Israelis and anyone who supported them --- derisively labeled as \enquote{Zionists} --- gave strong indications of being part of a cohesive, overall strategy. Claims of an \enquote{impending genocide}\footnote{E.g., Center for Constitutional Rights. \enquote{Israel's Unfolding Crime of Genocide of the Palestinian People \& U.S. Failure to Prevent and Complicity in Genocide,} October 18, 2023. \url{https://ccrjustice.org/israel-s-unfolding-crime-genocide-palestinian-people-us-failure-prevent-and-complicity-genocide}; Sai Englert, \enquote{Impending Genocide,} Sidecar, October 16, 2023, \url{https://newleftreview.org/sidecar/posts/impending-genocide}. (``In Gaza, Israel is gearing up to commit genocide.'').} filled the Infosphere as \enquote{within minutes, graphic imagery and bombastic propaganda began to flood social media platforms,}\footnote{P. W. Singer and Emerson T. Brooking, {Gaza and the Future of Information Warfare,} Foreign Affairs, November 15, 2023. \url{https://www.foreignaffairs.com/israel/gaza-and-future-information-warfare}.} well before any response from Israel actually took place. Claims of ever more disproportionate brutality and oppression on Israel's part was a recurring feature of the messaging\footnote{The Dahiya Doctrine \& Israel's Use of Disproportionate Force. July 31, 2024. IMEU.} 
+
+\parindent 0pt
+\parskip 6pt
+
+\setenotez{
+  list-name = {Notes to Chapter \thechapter}
+}
+% Always place this macro at the exact end of every chapter:
+\printendnotes[paragraph]
+
+\thispagestyle{empty} % makes a blank page
+
+\end{document}
