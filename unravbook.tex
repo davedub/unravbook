@@ -15,6 +15,35 @@
 
 % --- Language and Fonts ---
 \usepackage[utf8]{inputenc}
+
+% % % % %  START small caps "cheat"
+% https://tex.stackexchange.com/a/592619
+
+\usepackage{xparse,relsize}
+
+\ExplSyntaxOn
+
+\NewDocumentCommand{\textsmallcaps}{ m }{% Define new command with one mandatory argument
+   \textapperance_smallcaps:n { #1 }% Call
+}%
+
+
+\tl_new:N \l__textapperance_textsmallcaps_input_tl% Initialize string variable
+\cs_new_protected:Npn \textapperance_smallcaps:n #1
+{% Create hidden command with one argument
+   \tl_set:Nx \l__textapperance_textsmallcaps_input_tl { #1 } % Fully expand contents and store them in the variable
+   \regex_replace_all:nnN
+   { ([^A-Z]+) }
+   { \c{textsmaller}[2]\cB\{\c{uppercase}\cB\{\0\cE\}\cE\} }
+   \l__textapperance_textsmallcaps_input_tl % Replace everything thats NOT a capital letter by \textsmaller[2]{\uppercase{<match>}}
+   \tl_use:N \l__textapperance_textsmallcaps_input_tl   % Return
+}
+\ExplSyntaxOff
+\renewcommand{\textsc}{\textsmallcaps}
+
+% % % % %  END SMALL CAPS "cheat"
+
+
 \usepackage[T1]{fontenc}
 \usepackage[english]{babel}
 
@@ -85,7 +114,7 @@
 
 
 % set spacing between paragraphs with "parskip"
-\setlength{\parskip}{0.5cm}
+\setlength{\parskip}{0.2cm}
 
 % for enotez, use \printendnotes, not \theendnotes
 \usepackage{enotez}
@@ -131,7 +160,7 @@
 
 % --- Index Setup ---
 \usepackage{indextools}
-\makeindex                  % Initializes index generation
+\makeindex  % Initializes index generation
 
 % --- Headers and Footers ---
 \usepackage[automark]{scrlayer-scrpage}
@@ -169,11 +198,8 @@
 
 % --- Footnotes End of Chapter Setup ---
 % Configures footnotes to print as endnotes sorted by chapter
-% NOTE: enotez (loaded above) is already our endnotes engine — do NOT also
-% load the old `endnotes` package here. It redefines \endnote and re-hijacks
-% \footnote, which silently disconnects \footnote from enotez's note list,
-% so \printendnotes has nothing to print. \notesname is our own heading
-% macro (not provided by enotez), so it must be \newcommand, not \renewcommand.
+% macro (not provided by enotez), so must be \newcommand
+% not \renewcommand.
 \newcommand{\notesname}{Notes to Chapter \thechapter}
 
 % --- Custom Command for Chapter Endings ---
@@ -197,13 +223,14 @@
     % Manual title text overlay since \maketitle clears the background    % Manual title text overlay since \maketitle clears the background
 
     \centering
-    \vspace*{3.2cm}
-    {\Large\bfseries\color{white} \normalfont\textsc{UN-Raveling the Jewish State}\\
-    \vspace*{.4cm}
-        \small{\normalfont\textsc{How the UN General Assembly's long encounter with South African apartheid led to its \enquote{racialization} of Palestine\\}
-        \par}
+    \vspace*{3.5cm}
+    {\Large\color{white} \textsc{UN-Raveling the Jewish State}\\
+    \vspace*{.2cm}
+        {\small\linespread{2}\selectfont
+        \par\textsc{How the UN General Assembly's long encounter with South African apartheid led to the \enquote{racialization} of Palestine\\}
+        }
     \vspace{2.2cm}
-    {\Large\color{black} David Witus\par}
+    {\small\color{black} \par\bfseries\textsc{David Witus (dwitus@gmail.com)\\Editorial Evaluation Draft}}
     }
     
 \vfill % Pushes content up
@@ -229,6 +256,13 @@
 
 % Internationalized
 \subfile{./chapt/ch-02.tex} 
+
+
+% ==================== CHAPTER 3 ====================
+
+% Dehumanized
+\subfile{./chapt/ch-03.tex} 
+
 
 % ==================== CHAPTER 4 ====================
 
