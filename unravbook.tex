@@ -18,8 +18,8 @@
 
 % --- Language and Fonts ---
 
-% % % % %  START small caps "cheat"
-% https://tex.stackexchange.com/a/592619
+% % % % % %  START small caps "cheat"
+% % https://tex.stackexchange.com/a/592619
 
 \usepackage{xparse,relsize}
 
@@ -28,7 +28,6 @@
 \NewDocumentCommand{\textsmallcaps}{ m }{% Define new command with one mandatory argument
    \textapperance_smallcaps:n { #1 }% Call
 }%
-
 
 \tl_new:N \l__textapperance_textsmallcaps_input_tl% Initialize string variable
 \cs_new_protected:Npn \textapperance_smallcaps:n #1
@@ -43,8 +42,7 @@
 \ExplSyntaxOff
 \renewcommand{\textsc}{\textsmallcaps}
 
-% % % % %  END SMALL CAPS "cheat"
-
+% % % % % %  END SMALL CAPS "cheat"
 
 \usepackage[T1]{fontenc}
 \usepackage[english]{babel}
@@ -199,6 +197,9 @@
     }
 }
 
+\usepackage{fontspec}
+\usepackage{microtype} % This acts as a backup engine for letter-spacing in XeLaTeX
+
 
 \begin{document}
 
@@ -207,11 +208,15 @@
   \BgThispage
   \centering
   \vspace*{3.5cm}
-  {\Large\color{white} \textsc{UN-Raveling the Jewish State}\\
+  {\Large\color{white} 
+   \addfontfeature{LetterSpace=12}% 
+   \textsc{UN-raveling the Jewish State}\\
     \vspace*{.2cm}
-      {\small\linespread{2}\selectfont
-        \par\textsc{How the UN General Assembly's long encounter with South African apartheid led to the \enquote{racialization} of Palestine\\}
-      }
+% <-- loosened letters in this group
+    {\normalsize\linespread{2}\selectfont \par
+        \addfontfeature{LetterSpace=10}% 
+          \textsc{How the UN General Assembly's long encounter with\\South African apartheid led to the \enquote{racialization} of Palestine\\}% 
+    }
     \vspace{2.2cm}
     {\small\color{black} \par\bfseries\textsc{David Witus (dwitus@gmail.com)\\Editorial Evaluation Draft}}
     }
