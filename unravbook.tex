@@ -3,18 +3,20 @@
     BCOR=10mm,
     twoside=true,
     fontsize=10pt,
+    numbers=enddot,
     DIV=calc,
     bibliography=totoc, % Adds main bibliography to TOC
     index=totoc   % Adds Index to TOC
 ]{scrbook}
 
+% adjusts the first line indent of indented paras only
+\setlength{\parindent}{.65cm}
 
-\PassOptionsToPackage{pdftex}{geometry}
 \usepackage[margin=1in, includeheadfoot]{geometry}
 
+\usepackage{xcolor}
 
 % --- Language and Fonts ---
-\usepackage[utf8]{inputenc}
 
 % % % % %  START small caps "cheat"
 % https://tex.stackexchange.com/a/592619
@@ -49,47 +51,35 @@
 
 % 1A Load Latin Modern fonts
 
-\usepackage{lmodern}
-\renewcommand{\familydefault}{\sfdefault}
-\addtokomafont{disposition}{\sffamily}
+%\usepackage{lmodern}
 
-% Won't work because using enotez (see fix in the subfiles)
-% 1B - make footnote text smaller
-% % Reduce footnote text size (e.g., to \small or \footnotesize)
-% \addtokomafont{endnote}{\small}
+\usepackage[sfdefault]{cabin}
 
-% 2. Set the default document family to Sans-Serif
 \renewcommand{\familydefault}{\sfdefault}
 
-% 3. Force KOMA-Script structural elements to follow the sans-serif family
 \addtokomafont{disposition}{\sffamily}
+\DeclareTOCStyleEntry[
+  dynnumwidth,
+  beforeskip=10pt,
+  entryformat=\scshape,
+  pagenumberformat=\normalsize,
+  linefill=\dotfill
+]{tocline}{chapter}
+
+% 2. Set default document family to Sans-Serif
+\renewcommand{\familydefault}{\sfdefault}
+
+% 3. Force KOMA-Script structural elements to use sans-serif family
+
+\addtokomafont{chapterentry}{\sffamily}
+\addtokomafont{chapterentrypagenumber}{\sffamily}
+\addtokomafont{disposition}{\sffamily}
+\setkomafont{chapterentry}{\sffamily}
+\setkomafont{chapterentrypagenumber}{\sffamily}
 
 % TOC format and entry customization
-\usepackage[titles]{tocloft}
+% \usepackage[titles]{tocloft}
 
-
-\usepackage{eso-pic,graphicx}
-  \newcommand\DraftPDF{
-      \put(0,0){
-          \parbox[b][\paperheight]{\paperwidth}{%
-             \vfill
-              \centering
-                \includegraphics[width=\paperwidth, height=\paperheight]{cover-image-3b.png}
-            \vfill
-          }
-      }
-}
-
-\usepackage[pages=some]{background} % Controlled background placement
-
-% Configure the background image
-\backgroundsetup{
-    scale=1,
-    color=black,
-    opacity=1,
-    angle=0,
-    contents={\includegraphics[width=\paperwidth,height=\paperheight]{cover-image-3b.png}}
-}
 
 % --- Bibliography Setup ---
 \usepackage[
@@ -100,20 +90,16 @@
 ]{biblatex-chicago}
 
 % add bib files for each chapter
-\addbibresource{bibfiles/all-cites.bib} 
+\addbibresource{all-cites.bib} 
 
-\AtBeginDocument{%
-  \DeclareDelimFormat{nameyeardelim}{\addcomma\space}%
-  \DeclareDelimFormat{postnotedelim}{\addcomma\space}%
-}
+\DeclareDelimFormat{nameyeardelim}{\addcomma\space}
+\DeclareDelimFormat{postnotedelim}{\addcomma\space}
 
-
-% load hyperref AFTER tocloft package (per AI)
 % Load hyperref AFTER biblatex (per AI)
 \usepackage[hidelinks]{hyperref}
 
 
-% set spacing between paragraphs with "parskip"
+% space between paragraphs set here
 \setlength{\parskip}{0.2cm}
 
 % for enotez, use \printendnotes, not \theendnotes
@@ -144,6 +130,24 @@
 \usepackage{xurl}
 \renewcommand{\footnotesize}{\fontsize{8pt}{10pt}\selectfont}
 
+\usepackage{enumitem}
+\usepackage{etoolbox}
+
+% ==========================================
+% CUSTOM QUOTE SPACING CONFIGURATION
+% ==========================================
+
+% Redefines standard quote to run safely and tightly through adjustwidth
+\renewenvironment{quote}%
+  {\begin{adjustwidth}{.65cm}{.5cm}%   % 
+  \begin{spacing}{0.9}%  
+   \vspace{.3cm}%
+   \setlength{\topsep}{-1em}%
+   \setlength{\partopsep}{-1em}%
+   \setlength{\parskip}{-1em}}%         % Opening block ends here
+  {\vspace{-.1cm}\end{spacing}\end{adjustwidth}}     % Closing block sits cleanly in its own braces
+
+
 
 \usepackage{afterpage} % use only for preface
 
@@ -153,10 +157,6 @@
 % Disable automatic upper casing of chapter titles in headers
 \renewcommand{\MakeUppercase}[1]{#1}
 
-% Chapter Setup ---
-% Configures footnotes to print as endnotes sorted by chapter
-
-% \renewcommand{\notesname}{\thechapter}
 
 % --- Index Setup ---
 \usepackage{indextools}
@@ -171,64 +171,47 @@
 % change default name of TOC "Contents" to "Table of Contents"
 \renewcommand{\contentsname}{\hfill\large\textsc{Table of Contents}\hfill}
 
-% Add dotted leaders for chapters
-\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
-
-% Add space before each chapter TOC entry
-\setlength{\cftbeforechapskip}{10pt}  % Adjust this value as needed
-
-% Add dot to chapter number in ToC
-\renewcommand{\cftchapnumwidth}{2.5em} % Adjust width as needed
-
-% Large small caps for chapter titles
-\renewcommand{\cftchapfont}{\normalsize\scshape}
-
-% Large font for page numbers
-\renewcommand{\cftchappagefont}{\normalsize}
-
-% Add dot to chapter number in heading
-\renewcommand{\thechapter}{\arabic{chapter}.}
-
-% Add space before BIB sections
-\setlength{\cftbeforesubsecskip}{10pt}  % subsections Articles and Books
-
-% restart footnote numbering after each chapter
-\usepackage{chngcntr}
-\counterwithin*{footnote}{chapter}
-
-% --- Footnotes End of Chapter Setup ---
-% Configures footnotes to print as endnotes sorted by chapter
-% macro (not provided by enotez), so must be \newcommand
-% not \renewcommand.
 \newcommand{\notesname}{Notes to Chapter \thechapter}
 
 % --- Custom Command for Chapter Endings ---
 % Automates printing footnotes and references before the next chapter begins
 \newcommand{\printchapterend}{%
-    \addsec*{\notesname}    % Prints footnotes under an unnumbered sub-heading
-    \printendnotes            % Spits out the footnotes for this chapter
-    \clearpage              % Empties footnote storage for the next chapter
+    \addsec*{\notesname} % Prints FNs under unnumbered sub-heading
+    \printendnotes % Spits out the footnotes for this chapter
+    \clearpage  % Empties footnote storage for the next chapter
     \printbibliography[heading=subbibliography, title={References}]
 }
 
 \widowpenalty10000
 \clubpenalty10000
 
+\usepackage[pages=some]{background}
+
+\backgroundsetup{
+    scale=1,
+    angle=0,
+    opacity=1,
+    contents={
+        \includegraphics[
+            width=\paperwidth,
+            height=\paperheight
+        ]{cover-image-3b.png}
+    }
+}
+
 
 \begin{document}
 
+
 \begin{titlepage}
-
-    \BgThispage % Turns on the background image for this page only (pages=some requires this)
-    % Manual title text overlay since \maketitle clears the background    % Manual title text overlay since \maketitle clears the background
-
-    \centering
-    \vspace*{3.5cm}
-    {\Large\color{white} \textsc{UN-Raveling the Jewish State}\\
+  \BgThispage
+  \centering
+  \vspace*{3.5cm}
+  {\Large\color{white} \textsc{UN-Raveling the Jewish State}\\
     \vspace*{.2cm}
-        {\small\linespread{2}\selectfont
+      {\small\linespread{2}\selectfont
         \par\textsc{How the UN General Assembly's long encounter with South African apartheid led to the \enquote{racialization} of Palestine\\}
-        }
+      }
     \vspace{2.2cm}
     {\small\color{black} \par\bfseries\textsc{David Witus (dwitus@gmail.com)\\Editorial Evaluation Draft}}
     }
@@ -244,7 +227,6 @@
 \tableofcontents
 
 \mainmatter
-
 
 % ==================== CHAPTER 1 ====================
 
@@ -279,10 +261,6 @@
 
 \cleardoublepage
 
- % Make section TOC entries consistent
-\renewcommand{\cftsecpagefont}{\normalfont}
-\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
-
 \begin{adjustwidth}{.65cm}{.5cm}
   \begin{center}
     \Large\bfseries{\vspace{.5em}Bibliography}
@@ -300,8 +278,6 @@
 \markboth{Bibliography}{Bibliography}  % Sets header for section
 \hypersetup{bookmarksdepth=-1}
 
-\setstretch{1.05}
-
 \nocite{*}
 
 \printbibliography[
@@ -311,12 +287,12 @@
   notkeyword=exclude
 ]
 
-\setstretch{1.05} % Resets line spacing within entries (optional)
 \vspace{1cm}
 \printbibliography[
   heading=subbibintoc,
   type=book, 
-  title={Books},
+  title={\vspace{.5em}Books}\vspace{.25em},
+  % title={Books},
   notkeyword=exclude
 ]
 \end{document}
