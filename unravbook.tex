@@ -10,7 +10,7 @@
     index=totoc   % Adds Index to TOC
 ]{scrbook}
 
-% adjusts the first line indent of indented paras only
+% first line indents of indented paras 
 \setlength{\parindent}{.65cm}
 
 \usepackage[margin=1in, includeheadfoot]{geometry}
@@ -18,14 +18,11 @@
 \usepackage{xcolor}
 
 % --- Language and Fonts ---
-
-% % % % % %  START small caps "cheat"
-% % https://tex.stackexchange.com/a/592619
+%% START small caps "cheat"
+%% https://tex.stackexchange.com/a/592619
 
 \usepackage{xparse,relsize}
-
 \ExplSyntaxOn
-
 \NewDocumentCommand{\textsmallcaps}{ m }{% Define new command with one mandatory argument
    \textapperance_smallcaps:n { #1 }% Call
 }%
@@ -43,18 +40,29 @@
 \ExplSyntaxOff
 \renewcommand{\textsc}{\textsmallcaps}
 
-% % % % % %  END SMALL CAPS "cheat"
 
-\usepackage[T1]{fontenc}
-\usepackage[english]{babel}
+%%%%%%  FONT AND URL Settings %%%%%
 
-% 1A Load Latin Modern fonts
-
-%\usepackage{lmodern}
-
+% 1A. Set font
 \usepackage[sfdefault]{cabin}
+\usepackage{fontspec}
 
-\renewcommand{\familydefault}{\sfdefault}
+% 1B. Set monotype font
+\setmonofont{Courier} 
+
+% 2A. USE XURL PACKAGE
+\usepackage{xurl}
+
+% 2B. STYLIZE Links
+\usepackage[hidelinks]{hyperref}
+ % Force \url{} fixed-width font 
+\urlstyle{tt}
+
+% 3. Microtypography
+\usepackage{microtype} 
+% microtype acts as a backup engine for letter-spacing in XeLaTeX
+
+%%% END FONT & URL SETTINGS
 
 \addtokomafont{disposition}{\sffamily}
 \DeclareTOCStyleEntry[
@@ -76,9 +84,6 @@
 \setkomafont{chapterentry}{\sffamily}
 \setkomafont{chapterentrypagenumber}{\sffamily}
 
-% TOC format and entry customization
-% \usepackage[titles]{tocloft}
-
 
 % --- Bibliography Setup ---
 \usepackage[
@@ -94,25 +99,21 @@
 \DeclareDelimFormat{nameyeardelim}{\addcomma\space}
 \DeclareDelimFormat{postnotedelim}{\addcomma\space}
 
-% Load hyperref AFTER biblatex (per AI)
-\usepackage[hidelinks]{hyperref}
-
-
 % space between paragraphs set here
-\setlength{\parskip}{0.2cm}
+\setlength{\parskip}{2pt}
+ % or whatever indent you prefer
 
 % for enotez, use \printendnotes, not \theendnotes
 \usepackage{enotez}
 \let\footnote=\endnote
 
-% Define enotez-list template
+% Define enotez-list template to respect global typewriter font
 \DeclareInstance{enotez-list}{paragraph}{paragraph}
-  {
-    % Format = \normalfont\relax, 
-    format = \normalfont\renewcommand{\UrlFont}{\fontfamily{zi4}\selectfont}, 
-    number = \textsuperscript{#1}, 
-    heading = \section*{#1}
-  }
+{
+  format = \normalfont\urlstyle{tt},
+  number = \textsuperscript{#1},
+  heading = \section*{#1}
+}
 
 % --- additional packages ---
 
@@ -121,13 +122,12 @@
 \usepackage{hyphenat}
 \usepackage{csquotes}
 
-
-% for \adjustwidth for quoted excerpts
+% changepage is needed for customized quote hack
 \usepackage{changepage}
-\usepackage{url}
-\tolerance=9000
-\usepackage{xurl}
-\renewcommand{\footnotesize}{\fontsize{8pt}{10pt}\selectfont}
+% \usepackage{url}
+% \tolerance=9000
+% \usepackage{xurl}
+% \renewcommand{\footnotesize}{\fontsize{9pt}{10pt}\selectfont}
 
 \usepackage{enumitem}
 \usepackage{etoolbox}
@@ -136,17 +136,19 @@
 % CUSTOM QUOTE SPACING CONFIGURATION
 % ==========================================
 
-% Redefines standard quote to run safely and tightly through adjustwidth
-\renewenvironment{quote}%
-  {\begin{adjustwidth}{.65cm}{.5cm}%   % 
-  \begin{spacing}{0.9}%  
-   \vspace{.3cm}%
-   \setlength{\topsep}{-1em}%
-   \setlength{\partopsep}{-1em}%
-   \setlength{\parskip}{-1em}}%         % Opening block ends here
-  {\vspace{-.1cm}\end{spacing}\end{adjustwidth}}     % Closing block sits cleanly in its own braces
+% Define quote to run through adjustwidth
+% ChatGPT version
+\renewenvironment{quote}
+  {\par
+   \vspace*{-0.05cm}
+   \begin{adjustwidth}{.65cm}{.5cm}
+   \setstretch{0.9}
+   \noindent}
+  {\par
+   \end{adjustwidth}
+  \vspace*{-0.2cm}}
 
-
+% last line cancels global parskip
 
 \usepackage{afterpage} % use only for preface
 
@@ -156,6 +158,7 @@
 % Disable automatic upper casing of chapter titles in headers
 \renewcommand{\MakeUppercase}[1]{#1}
 
+\setkomafont{chapter}{\Large\bfseries\scshape}
 
 % --- Index Setup ---
 \usepackage{indextools}
@@ -198,11 +201,6 @@
     }
 }
 
-\usepackage{fontspec}
-\usepackage{microtype} 
-% microtype acts as a backup engine for letter-spacing in XeLaTeX
-
-
 \begin{document}
 
 
@@ -235,37 +233,29 @@
 
 \mainmatter
 
-% ==================== CHAPTER 1 ====================
-
+% === CHAPTER 1 ===
 % Ch 1 Reconceptualized
 \subfile{./chapt/ch-01.tex} 
 
-
-% ==================== CHAPTER 2 ====================
-
+% === CHAPTER 2 ===
 % Internationalized
 \subfile{./chapt/ch-02.tex} 
 
-
-% ==================== CHAPTER 3 ====================
-
-% Dehumanized
+% === CHAPTER 3 ===
+% Criminalized
 \subfile{./chapt/ch-03.tex} 
 
-
-% ==================== CHAPTER 4 ====================
-
+% === CHAPTER 4 ===
 % Dehumanized
 \subfile{./chapt/ch-04.tex} 
 
+% === CHAPTER 5 ===
+% De-Decolonized
+\subfile{./chapt/ch-05.tex} 
 
-
-
-
-% ==================== BACK MATTER ====================
+% ====== BACK MATTER ====
 
 \backmatter
-
 \cleardoublepage
 
 \begin{adjustwidth}{.65cm}{.5cm}

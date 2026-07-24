@@ -1,0 +1,44 @@
+%!TEX program = xelatex
+\documentclass{scrbook}
+
+%%%%%%  FONT AND URL Settings %%%%%
+
+% 1A. Set font
+\usepackage[sfdefault]{cabin}
+\usepackage{fontspec}
+
+% 1B. Set monotype font
+\setmonofont{Courier} 
+
+% 2A. USE XURL PACKAGE
+\usepackage{xurl}
+
+% 2B. STYLIZE Links
+\usepackage[hidelinks]{hyperref}
+ % Force \url{} fixed-width font 
+\urlstyle{tt}
+
+% 3. Microtypography
+\usepackage{microtype} 
+% microtype acts as a backup engine for letter-spacing in XeLaTeX
+
+%%% END FONT & URL SETTINGS
+
+% 2. Set default document family to Sans-Serif
+\renewcommand{\familydefault}{\sfdefault}
+
+% 3. Force KOMA-Script structural elements to use sans-serif family
+
+\addtokomafont{chapterentry}{\sffamily}
+\addtokomafont{chapterentrypagenumber}{\sffamily}
+\addtokomafont{disposition}{\sffamily}
+\setkomafont{chapterentry}{\sffamily}
+\setkomafont{chapterentrypagenumber}{\sffamily}
+
+
+
+\begin{document}
+
+Here is the report.\footnote{Report of the World Conference against Racism, Racial Discrimination, Xenophobia and Related Intolerance Durban, 31 August -- 8 September 2001, A/CONF.189/12 (Part III) \url{https://digitallibrary.un.org/record/451954/files/A_CONF.189_12\%28PartIII\%29-EN.pdf}.}
+
+\end{document}
